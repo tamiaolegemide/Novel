@@ -1,0 +1,19 @@
+{
+  "novelWriter.meta": {
+    "version": "0x260100f0",
+    "timestamp": "2026-06-18 14:26:55"
+  },
+  "novelWriter.tagsIndex": {},
+  "novelWriter.itemIndex": {
+    "a8815a1a3d0e4": {
+      "T0000": {
+        "meta": {"level": "H0", "title": "", "line": 0, "tag": "", "counts": [39, 8, 1]}
+      }
+    },
+    "a5f16bbfefede": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "New Note", "line": 1, "tag": "", "counts": [8, 2, 0]}
+      }
+    }
+  }
+}

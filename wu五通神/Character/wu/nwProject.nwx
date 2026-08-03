@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<novelWriterXML appVersion="26.1" hexVersion="0x260100f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-06-18 14:26:55">
+  <project id="145a73e4-5b93-4774-b1b8-f965d89ecdf6" saveCount="3" autoCount="1" editTime="277">
+    <name>wu</name>
+    <author />
+  </project>
+  <settings>
+    <doBackup>yes</doBackup>
+    <language>en_US</language>
+    <spellChecking auto="no">None</spellChecking>
+    <lastHandle>
+      <entry key="editor">a5f16bbfefede</entry>
+      <entry key="viewer">a5f16bbfefede</entry>
+      <entry key="novel">d0ec52f105ef6</entry>
+      <entry key="outline">None</entry>
+    </lastHandle>
+    <autoReplace />
+    <status>
+      <entry key="sc55d33" count="3" color="faded" shape="STAR">New</entry>
+      <entry key="seaf65e" count="0" color="red" shape="TRIANGLE">Note</entry>
+      <entry key="s172749" count="0" color="yellow" shape="CIRCLE_T">Draft</entry>
+      <entry key="s8c6a02" count="0" color="green" shape="STAR">Finished</entry>
+    </status>
+    <importance>
+      <entry key="i397b41" count="6" color="purple" shape="SQUARE">New</entry>
+      <entry key="i2cc7f5" count="0" color="purple" shape="BLOCK_2">Minor</entry>
+      <entry key="i830bd9" count="0" color="purple" shape="BLOCK_3">Major</entry>
+      <entry key="i9c4691" count="0" color="purple" shape="BLOCK_4">Main</entry>
+    </importance>
+  </settings>
+  <content items="9" novelWords="8" notesWords="2" novelChars="39" notesChars="8">
+    <item handle="d0ec52f105ef6" parent="None" root="d0ec52f105ef6" order="0" type="ROOT" class="NOVEL">
+      <meta expanded="yes" />
+      <name status="sc55d33" import="i397b41">Novel</name>
+    </item>
+    <item handle="a8815a1a3d0e4" parent="d0ec52f105ef6" root="d0ec52f105ef6" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H1" charCount="39" wordCount="8" paraCount="1" cursorPos="66" />
+      <name status="sc55d33" import="i397b41" active="yes">Title Page</name>
+    </item>
+    <item handle="445389d66b561" parent="None" root="445389d66b561" order="1" type="ROOT" class="PLOT">
+      <meta expanded="no" />
+      <name status="sc55d33" import="i397b41">Plot</name>
+    </item>
+    <item handle="0742c4232a28d" parent="None" root="0742c4232a28d" order="2" type="ROOT" class="CHARACTER">
+      <meta expanded="no" />
+      <name status="sc55d33" import="i397b41">Characters</name>
+    </item>
+    <item handle="d9632fbaa5568" parent="None" root="d9632fbaa5568" order="3" type="ROOT" class="ARCHIVE">
+      <meta expanded="no" />
+      <name status="sc55d33" import="i397b41">Archive</name>
+    </item>
+    <item handle="fbf8bc5204e7a" parent="None" root="fbf8bc5204e7a" order="4" type="ROOT" class="WORLD">
+      <meta expanded="no" />
+      <name status="sc55d33" import="i397b41">Locations</name>
+    </item>
+    <item handle="2a227be10679d" parent="None" root="2a227be10679d" order="5" type="ROOT" class="TIMELINE">
+      <meta expanded="no" />
+      <name status="sc55d33" import="i397b41">Timeline</name>
+    </item>
+    <item handle="a5f16bbfefede" parent="2a227be10679d" root="2a227be10679d" order="0" type="FILE" class="TIMELINE" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="8" wordCount="2" paraCount="0" cursorPos="11" />
+      <name status="sc55d33" import="i397b41" active="yes">New Note</name>
+    </item>
+    <item handle="b4cbafce4b860" parent="None" root="b4cbafce4b860" order="6" type="ROOT" class="TRASH">
+      <meta expanded="no" />
+      <name status="sc55d33" import="i397b41">Trash</name>
+    </item>
+  </content>
+</novelWriterXML>

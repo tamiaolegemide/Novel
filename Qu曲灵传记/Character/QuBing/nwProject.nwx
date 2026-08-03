@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<novelWriterXML appVersion="26.1.1" hexVersion="0x260101f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-07-27 16:58:30">
+  <project id="5ee7b057-2392-4e28-b560-98d4f1b6da82" saveCount="6" autoCount="35" editTime="20667">
+    <name>QuBing</name>
+    <author />
+  </project>
+  <settings>
+    <doBackup>yes</doBackup>
+    <language>en_US</language>
+    <spellChecking auto="no">None</spellChecking>
+    <lastHandle>
+      <entry key="editor">875202767daa8</entry>
+      <entry key="viewer">875202767daa8</entry>
+      <entry key="novel">7e75bbf1ff796</entry>
+      <entry key="outline">None</entry>
+    </lastHandle>
+    <autoReplace />
+    <status>
+      <entry key="s6bc124" count="3" color="faded" shape="STAR">New</entry>
+      <entry key="s19e097" count="0" color="red" shape="TRIANGLE">Note</entry>
+      <entry key="sa325e2" count="0" color="yellow" shape="CIRCLE_T">Draft</entry>
+      <entry key="s5b3921" count="0" color="green" shape="STAR">Finished</entry>
+    </status>
+    <importance>
+      <entry key="iedde22" count="9" color="purple" shape="SQUARE">New</entry>
+      <entry key="ibd8134" count="0" color="purple" shape="BLOCK_2">Minor</entry>
+      <entry key="i463751" count="0" color="purple" shape="BLOCK_3">Major</entry>
+      <entry key="i793699" count="0" color="purple" shape="BLOCK_4">Main</entry>
+    </importance>
+  </settings>
+  <content items="12" novelWords="14" notesWords="37" novelChars="75" notesChars="457">
+    <item handle="7e75bbf1ff796" parent="None" root="7e75bbf1ff796" order="0" type="ROOT" class="NOVEL">
+      <meta expanded="yes" />
+      <name status="s6bc124" import="iedde22">Novel</name>
+    </item>
+    <item handle="40f9bbda9abd8" parent="7e75bbf1ff796" root="7e75bbf1ff796" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H1" charCount="75" wordCount="14" paraCount="3" cursorPos="0" />
+      <name status="s6bc124" import="iedde22" active="yes">Title Page</name>
+    </item>
+    <item handle="c2584731986b6" parent="None" root="c2584731986b6" order="1" type="ROOT" class="PLOT">
+      <meta expanded="yes" />
+      <name status="s6bc124" import="iedde22">Plot</name>
+    </item>
+    <item handle="8d23db96cc7c8" parent="c2584731986b6" root="c2584731986b6" order="0" type="FILE" class="PLOT" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="353" wordCount="15" paraCount="2" cursorPos="327" />
+      <name status="s6bc124" import="iedde22" active="yes">故事</name>
+    </item>
+    <item handle="774721ad661a6" parent="None" root="774721ad661a6" order="2" type="ROOT" class="CHARACTER">
+      <meta expanded="yes" />
+      <name status="s6bc124" import="iedde22">Characters</name>
+    </item>
+    <item handle="b609735e73213" parent="774721ad661a6" root="774721ad661a6" order="0" type="FILE" class="CHARACTER" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="32" wordCount="7" paraCount="2" cursorPos="48" />
+      <name status="s6bc124" import="iedde22" active="yes">主角</name>
+    </item>
+    <item handle="2e7bd2789ee39" parent="774721ad661a6" root="774721ad661a6" order="1" type="FILE" class="CHARACTER" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="7" wordCount="2" paraCount="1" cursorPos="10" />
+      <name status="s6bc124" import="iedde22" active="yes">公司</name>
+    </item>
+    <item handle="875202767daa8" parent="774721ad661a6" root="774721ad661a6" order="2" type="FILE" class="CHARACTER" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="44" wordCount="10" paraCount="3" cursorPos="70" />
+      <name status="s6bc124" import="iedde22" active="yes">卢派</name>
+    </item>
+    <item handle="988151c22b071" parent="None" root="988151c22b071" order="3" type="ROOT" class="ARCHIVE">
+      <meta expanded="no" />
+      <name status="s6bc124" import="iedde22">Archive</name>
+    </item>
+    <item handle="3a5ef1b16eb36" parent="None" root="3a5ef1b16eb36" order="4" type="ROOT" class="OBJECT">
+      <meta expanded="yes" />
+      <name status="s6bc124" import="iedde22">Objects</name>
+    </item>
+    <item handle="7b413efc14458" parent="3a5ef1b16eb36" root="3a5ef1b16eb36" order="0" type="FILE" class="OBJECT" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="21" wordCount="3" paraCount="1" cursorPos="27" />
+      <name status="s6bc124" import="iedde22" active="yes">器官</name>
+    </item>
+    <item handle="ac86347b72c3b" parent="None" root="ac86347b72c3b" order="5" type="ROOT" class="TRASH">
+      <meta expanded="no" />
+      <name status="s6bc124" import="iedde22">Trash</name>
+    </item>
+  </content>
+</novelWriterXML>

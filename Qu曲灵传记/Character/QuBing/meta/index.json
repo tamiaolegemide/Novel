@@ -1,0 +1,54 @@
+{
+  "novelWriter.meta": {
+    "version": "0x260101f0",
+    "timestamp": "2026-07-27 16:58:30"
+  },
+  "novelWriter.tagsIndex": {
+    "\u5362\u4e16\u708e": {"name": "\u5362\u4e16\u708e", "display": "\u5362\u4e16\u708e", "handle": "875202767daa8", "heading": "T0001", "class": "CHARACTER"},
+    "\u5b59\u7acb": {"name": "\u5b59\u7acb", "display": "\u5b59\u7acb", "handle": "875202767daa8", "heading": "T0001", "class": "CHARACTER"},
+    "\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb": {"name": "\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb", "display": "\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb", "handle": "875202767daa8", "heading": "T0001", "class": "CHARACTER"}
+  },
+  "novelWriter.itemIndex": {
+    "40f9bbda9abd8": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "QuBing", "line": 7, "tag": "", "counts": [36, 6, 2]}
+      }
+    },
+    "8d23db96cc7c8": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "\u6545\u4e8b", "line": 1, "tag": "", "counts": [2, 1, 0]}
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "\u5267\u60c5", "line": 3, "tag": "", "counts": [351, 14, 2]},
+        "refs": {"\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb": "@mention"}
+      }
+    },
+    "b609735e73213": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "\u4eba\u7269", "line": 1, "tag": "", "counts": [2, 1, 0]}
+      },
+      "T0002": {
+        "meta": {"level": "H1", "title": "\u6211", "line": 2, "tag": "", "counts": [13, 3, 1]}
+      },
+      "T0003": {
+        "meta": {"level": "H2", "title": "\u66f2\u7075", "line": 6, "tag": "", "counts": [17, 3, 1]}
+      }
+    },
+    "7b413efc14458": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "\u5668\u5b98", "line": 1, "tag": "", "counts": [21, 3, 1]}
+      }
+    },
+    "2e7bd2789ee39": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "\u516c\u53f8", "line": 1, "tag": "", "counts": [7, 2, 1]}
+      }
+    },
+    "875202767daa8": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "\u5362\u6d3e", "line": 1, "tag": "\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb", "counts": [44, 10, 3]},
+        "refs": {"\u5362\u4e16\u708e": "@mention"}
+      }
+    }
+  }
+}
