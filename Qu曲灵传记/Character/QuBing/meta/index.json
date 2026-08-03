@@ -1,7 +1,7 @@
 {
   "novelWriter.meta": {
-    "version": "0x260101f0",
-    "timestamp": "2026-07-27 16:58:30"
+    "version": "0x260102f0",
+    "timestamp": "2026-08-03 15:30:09"
   },
   "novelWriter.tagsIndex": {
     "\u5362\u4e16\u708e": {"name": "\u5362\u4e16\u708e", "display": "\u5362\u4e16\u708e", "handle": "875202767daa8", "heading": "T0001", "class": "CHARACTER"},
@@ -48,6 +48,11 @@
       "T0001": {
         "meta": {"level": "H1", "title": "\u5362\u6d3e", "line": 1, "tag": "\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb", "counts": [44, 10, 3]},
         "refs": {"\u5362\u4e16\u708e": "@mention"}
+      }
+    },
+    "0244d09f1a646": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "\u89c4\u8303", "line": 1, "tag": "", "counts": [2, 1, 0]}
       }
     }
   }

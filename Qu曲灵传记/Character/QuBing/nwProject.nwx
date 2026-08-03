@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.1" hexVersion="0x260101f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-07-27 16:58:30">
-  <project id="5ee7b057-2392-4e28-b560-98d4f1b6da82" saveCount="6" autoCount="35" editTime="20667">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-03 15:30:09">
+  <project id="5ee7b057-2392-4e28-b560-98d4f1b6da82" saveCount="6" autoCount="36" editTime="20733">
     <name>QuBing</name>
     <author />
   </project>
@@ -9,7 +9,7 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">875202767daa8</entry>
+      <entry key="editor">0244d09f1a646</entry>
       <entry key="viewer">875202767daa8</entry>
       <entry key="novel">7e75bbf1ff796</entry>
       <entry key="outline">None</entry>
@@ -22,13 +22,13 @@
       <entry key="s5b3921" count="0" color="green" shape="STAR">Finished</entry>
     </status>
     <importance>
-      <entry key="iedde22" count="9" color="purple" shape="SQUARE">New</entry>
+      <entry key="iedde22" count="10" color="purple" shape="SQUARE">New</entry>
       <entry key="ibd8134" count="0" color="purple" shape="BLOCK_2">Minor</entry>
       <entry key="i463751" count="0" color="purple" shape="BLOCK_3">Major</entry>
       <entry key="i793699" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="12" novelWords="14" notesWords="37" novelChars="75" notesChars="457">
+  <content items="13" novelWords="14" notesWords="38" novelChars="75" notesChars="459">
     <item handle="7e75bbf1ff796" parent="None" root="7e75bbf1ff796" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s6bc124" import="iedde22">Novel</name>
@@ -45,6 +45,10 @@
       <meta expanded="no" heading="H1" charCount="353" wordCount="15" paraCount="2" cursorPos="327" />
       <name status="s6bc124" import="iedde22" active="yes">故事</name>
     </item>
+    <item handle="0244d09f1a646" parent="c2584731986b6" root="c2584731986b6" order="1" type="FILE" class="PLOT" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="2" wordCount="1" paraCount="0" cursorPos="0" />
+      <name status="s6bc124" import="iedde22" active="yes">规范</name>
+    </item>
     <item handle="774721ad661a6" parent="None" root="774721ad661a6" order="2" type="ROOT" class="CHARACTER">
       <meta expanded="yes" />
       <name status="s6bc124" import="iedde22">Characters</name>
@@ -58,7 +62,7 @@
       <name status="s6bc124" import="iedde22" active="yes">公司</name>
     </item>
     <item handle="875202767daa8" parent="774721ad661a6" root="774721ad661a6" order="2" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="44" wordCount="10" paraCount="3" cursorPos="70" />
+      <meta expanded="no" heading="H1" charCount="44" wordCount="10" paraCount="3" cursorPos="87" />
       <name status="s6bc124" import="iedde22" active="yes">卢派</name>
     </item>
     <item handle="988151c22b071" parent="None" root="988151c22b071" order="3" type="ROOT" class="ARCHIVE">
