@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-03 15:30:09">
-  <project id="5ee7b057-2392-4e28-b560-98d4f1b6da82" saveCount="6" autoCount="36" editTime="20733">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-04 10:08:09">
+  <project id="5ee7b057-2392-4e28-b560-98d4f1b6da82" saveCount="7" autoCount="36" editTime="20742">
     <name>QuBing</name>
     <author />
   </project>
@@ -9,7 +9,7 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">0244d09f1a646</entry>
+      <entry key="editor">8d23db96cc7c8</entry>
       <entry key="viewer">875202767daa8</entry>
       <entry key="novel">7e75bbf1ff796</entry>
       <entry key="outline">None</entry>

@@ -6,6 +6,7 @@ File Name                  Class      Layout    Document Label
 --------------------------------------------------------------
 content/40f9bbda9abd8.nwd  NOVEL      DOCUMENT  Title Page
 content/8d23db96cc7c8.nwd  PLOT       NOTE      故事
+content/0244d09f1a646.nwd  PLOT       NOTE      规范
 content/b609735e73213.nwd  CHARACTER  NOTE      主角
 content/2e7bd2789ee39.nwd  CHARACTER  NOTE      公司
 content/875202767daa8.nwd  CHARACTER  NOTE      卢派

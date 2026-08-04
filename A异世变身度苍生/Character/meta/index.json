@@ -1,7 +1,7 @@
 {
   "novelWriter.meta": {
     "version": "0x260102f0",
-    "timestamp": "2026-08-03 15:29:02"
+    "timestamp": "2026-08-04 16:50:36"
   },
   "novelWriter.tagsIndex": {
     "\u96c5\u5c14\u8299": {"name": "\u96c5\u5c14\u8299", "display": "\u96c5\u5c14\u8299", "handle": "d17553bdc1c16", "heading": "T0001", "class": "CHARACTER"},
@@ -40,7 +40,6 @@
     "\u82cf\u54c8\u4f9d\u5c14\u9547": {"name": "\u82cf\u54c8\u4f9d\u5c14\u9547", "display": "\u82cf\u54c8\u4f9d\u5c14\u9547", "handle": "1f17c06639847", "heading": "T0001", "class": "CHARACTER"},
     "\u5ba2\u5c14\u5ba2\u5e73\u539f": {"name": "\u5ba2\u5c14\u5ba2\u5e73\u539f", "display": "\u5ba2\u5c14\u5ba2\u5e73\u539f", "handle": "152c385614e3c", "heading": "T0001", "class": "CHARACTER"},
     "\u65af\u82ac\u514b\u91d1": {"name": "\u65af\u82ac\u514b\u91d1", "display": "\u65af\u82ac\u514b\u91d1", "handle": "f3c6707bfa667", "heading": "T0002", "class": "CHARACTER"},
-    "\u963f\u4e39": {"name": "\u963f\u4e39", "display": "\u963f\u4e39", "handle": "44d62fe0e30e9", "heading": "T0003", "class": "CHARACTER"},
     "\u8499\u591a\u529b-\u624e\u547c\u513f\u592a": {"name": "\u8499\u591a\u529b-\u624e\u547c\u513f\u592a", "display": "\u8499\u591a\u529b-\u624e\u547c\u513f\u592a", "handle": "506a7454a22f2", "heading": "T0002", "class": "CHARACTER"},
     "\u5fc5\u79fb\u624e\u624e\u6728": {"name": "\u5fc5\u79fb\u624e\u624e\u6728", "display": "\u5fc5\u79fb\u624e\u624e\u6728", "handle": "9f2f1eb2d6355", "heading": "T0001", "class": "CHARACTER"},
     "\u521b\u9020\u795e": {"name": "\u521b\u9020\u795e", "display": "\u521b\u9020\u795e", "handle": "9b54da811797f", "heading": "T0002", "class": "CHARACTER"},
@@ -149,7 +148,9 @@
     "\u6012\u6d77\u6068\u6d9b": {"name": "\u6012\u6d77\u6068\u6d9b", "display": "\u6012\u6d77\u6068\u6d9b", "handle": "e46c5f96346ce", "heading": "T0006", "class": "OBJECT"},
     "\u9b42\u7206": {"name": "\u9b42\u7206", "display": "\u9b42\u7206", "handle": "e46c5f96346ce", "heading": "T0006", "class": "OBJECT"},
     "\u6781\u715e\u75af\u9b54\u62f3": {"name": "\u6781\u715e\u75af\u9b54\u62f3", "display": "\u6781\u715e\u75af\u9b54\u62f3", "handle": "e46c5f96346ce", "heading": "T0006", "class": "OBJECT"},
-    "\u5149\u6108\u4e03\u672f": {"name": "\u5149\u6108\u4e03\u672f", "display": "\u5149\u6108\u4e03\u672f", "handle": "e46c5f96346ce", "heading": "T0006", "class": "OBJECT"}
+    "\u5149\u6108\u4e03\u672f": {"name": "\u5149\u6108\u4e03\u672f", "display": "\u5149\u6108\u4e03\u672f", "handle": "e46c5f96346ce", "heading": "T0006", "class": "OBJECT"},
+    "\u9b54\u738b\u963f\u4e39": {"name": "\u9b54\u738b\u963f\u4e39", "display": "\u9b54\u738b\u963f\u4e39", "handle": "44d62fe0e30e9", "heading": "T0003", "class": "CHARACTER"},
+    "\u70c8\u706b\u51b0\u5fc3\u51b3\u3002": {"name": "\u70c8\u706b\u51b0\u5fc3\u51b3\u3002", "display": "\u70c8\u706b\u51b0\u5fc3\u51b3\u3002", "handle": "e46c5f96346ce", "heading": "T0006", "class": "OBJECT"}
   },
   "novelWriter.itemIndex": {
     "a93a2fe54b336": {
@@ -227,8 +228,8 @@
         "meta": {"level": "H1", "title": "\u4e3b\u89d2\u96c5\u5c14\u8299", "line": 1, "tag": "\u96c5\u5c14\u8299", "counts": [16, 2, 1]}
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "\u6280\u80fd", "line": 4, "tag": "", "counts": [492, 22, 11]},
-        "refs": {"\u6ed1\u51b0": "@object", "\u9ed1\u767d\u68cb": "@object", "\u767d\u8272\u767e\u5408\u4e4b\u8d5e": "@object", "\u767e\u6298\u4e0d\u6320\u4fee\u5fc3\u6c14": "@object", "\u7384\u51b0\u529f": "@object", "\u6781\u715e\u6028\u7075\u6218\u4f53": "@object", "\u82f1\u7075\u9879\u94fe\u963f\u514b\u8c22\u529b": "@entity", "\u5973\u795e\u955c": "@entity", "\u51fa\u68a6\u6743\u6756": "@entity", "\u56db\u715e\u6218\u94e0": "@mention"},
+        "meta": {"level": "H2", "title": "\u6280\u80fd", "line": 4, "tag": "", "counts": [611, 25, 12]},
+        "refs": {"\u6ed1\u51b0": "@object", "\u9ed1\u767d\u68cb": "@object", "\u767d\u8272\u767e\u5408\u4e4b\u8d5e": "@object", "\u767e\u6298\u4e0d\u6320\u4fee\u5fc3\u6c14": "@object", "\u7384\u51b0\u529f": "@object", "\u6781\u715e\u6028\u7075\u6218\u4f53": "@object", "\u82f1\u7075\u9879\u94fe\u963f\u514b\u8c22\u529b": "@entity", "\u5973\u795e\u955c": "@entity", "\u51fa\u68a6\u6743\u6756": "@entity", "\u56db\u715e\u6218\u94e0": "@mention", "\u9b54\u738b\u963f\u4e39": "@mention"},
         "story.background": "\u751f\u6548\u65f6\u53d1\u51fa\u7edd\u8272\u5149\u8292\n\n\u751f\u6548\u65f6\u773c\u775b\u6709\u84dd\u5149\uff0c\u4e00\u9053\u84dd\u8272\u67d4\u5149\u4ece\u5979\u9ed1\u8272\u7684\u77b3\u5b54\u4e0b\u6d41\u8fc7\uff0c\u4f3c\u662f\u9ed1\u8272\u7684\u6708\u4eae\u60ac\u6d6e\u5728\u84dd\u8272\u7684\u6cb3\u6c34\u4e4b\u4e0a\u3002\n\n\u4e00\u5e74\u53ea\u80fd\u7528\u4e00\u6b21\u3002\u9700\u8981\u4e00\u5e74\u7684\u65f6\u95f4\u5145\u80fd\u3002\n\n\u901a\u8fc7\u5438\u98df\u9b54\u529b\u4e3a\u751f\uff0c\u559c\u6b22\u4e0e\u9b54\u529b\u7eaf\u6d01\u5f3a\u5927\u7684\u4eba\u3002"
       }
     },
@@ -684,14 +685,14 @@
         "meta": {"level": "H2", "title": "\u5723\u4f5b\u90ce\u5e1d\u56fd", "line": 15, "tag": "\u7075\u9b42\u4e4b\u4e88", "counts": [322, 26, 10]}
       },
       "T0006": {
-        "meta": {"level": "H2", "title": "\u8bc5\u5492", "line": 81, "tag": "\u5723\u7597\u672f", "counts": [923, 60, 18]},
+        "meta": {"level": "H2", "title": "\u8bc5\u5492", "line": 81, "tag": "\u70c8\u706b\u51b0\u5fc3\u51b3\u3002", "counts": [979, 68, 19]},
         "refs": {"\u6781\u5bd2\u62a4\u8eab\u6c14": "@mention", "\u759a\u6094\u6218\u6c14": "@mention", "\u6bd2\u6028\u4e4b\u523a": "@mention", "\u6012\u6d77\u6068\u6d9b": "@mention", "\u9b42\u7206": "@mention", "\u6781\u715e\u75af\u9b54\u62f3": "@mention"},
         "story.skill": "\u6781\u5bd2\u62a4\u8eab\u6c14\uff0c\u759a\u6094\u6218\u6c14"
       }
     },
     "12236a335e948": {
       "T0001": {
-        "meta": {"level": "H1", "title": "\u7269\u54c1", "line": 1, "tag": "\u51fa\u68a6\u6743\u6756", "counts": [165, 21, 6]}
+        "meta": {"level": "H1", "title": "\u7269\u54c1", "line": 1, "tag": "\u51fa\u68a6\u6743\u6756", "counts": [180, 22, 7]}
       }
     },
     "a86289d0715d0": {
@@ -848,7 +849,7 @@
         "meta": {"level": "H2", "title": "\u4e0a\u4e00\u4ee3\u9b54\u738b", "line": 3, "tag": "\u683c\u91cc\u82ac\u91d1", "counts": [5, 1, 0]}
       },
       "T0003": {
-        "meta": {"level": "H2", "title": "\u9b54\u738b", "line": 6, "tag": "\u963f\u4e39", "counts": [2, 1, 0]},
+        "meta": {"level": "H2", "title": "\u9b54\u738b", "line": 6, "tag": "\u9b54\u738b\u963f\u4e39", "counts": [2, 1, 0]},
         "refs": {"\u8d85\u9b54\u5f62\u6001": "@object", "\u9ed1\u4e4b\u9b54\u6cd5\u4e5d": "@object", "\u9b54\u4e4b\u8d50": "@object", "\u7075\u9b42\u8dc3\u51fb": "@object"}
       }
     },
