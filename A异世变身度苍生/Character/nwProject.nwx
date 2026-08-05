@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-04 16:50:36">
-  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="73" autoCount="963" editTime="958687">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-05 15:15:33">
+  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="73" autoCount="979" editTime="980704">
     <name>YIshijie</name>
     <author />
   </project>
@@ -9,7 +9,7 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">e46c5f96346ce</entry>
+      <entry key="editor">a93a2fe54b336</entry>
       <entry key="viewer">e46c5f96346ce</entry>
       <entry key="novel">e6821628afafd</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="i1969a5" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="87" novelWords="68" notesWords="668" novelChars="830" notesChars="7521">
+  <content items="87" novelWords="68" notesWords="673" novelChars="830" notesChars="7581">
     <item handle="e6821628afafd" parent="None" root="e6821628afafd" order="0" type="ROOT" class="NOVEL">
       <meta expanded="no" />
       <name status="s0caabc" import="id255c4">Novel</name>
@@ -38,7 +38,7 @@
       <name status="s0caabc" import="id255c4">Plot</name>
     </item>
     <item handle="a93a2fe54b336" parent="c8e5ef1dfe437" root="c8e5ef1dfe437" order="0" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="1019" wordCount="81" paraCount="16" cursorPos="266" />
+      <meta expanded="no" heading="H1" charCount="1046" wordCount="83" paraCount="14" cursorPos="294" />
       <name status="s0caabc" import="id255c4" active="yes">故事线索</name>
     </item>
     <item handle="3cd2bc0f3f220" parent="c8e5ef1dfe437" root="c8e5ef1dfe437" order="1" type="FILE" class="PLOT" layout="NOTE">
@@ -178,7 +178,7 @@
       <name status="s0caabc" import="id255c4" active="yes">马里鸟台家族</name>
     </item>
     <item handle="cf20a771c6d35" parent="109bab5028b4a" root="c553ac08a5d77" order="4" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="306" wordCount="15" paraCount="11" cursorPos="334" />
+      <meta expanded="no" heading="H1" charCount="311" wordCount="15" paraCount="11" cursorPos="473" />
       <name status="s0caabc" import="id255c4" active="yes">洛丹克家族</name>
     </item>
     <item handle="8e0525cbaec0a" parent="109bab5028b4a" root="c553ac08a5d77" order="5" type="FILE" class="CHARACTER" layout="NOTE">
@@ -194,7 +194,7 @@
       <name status="s0caabc" import="id255c4" active="yes">海格力夫</name>
     </item>
     <item handle="421955c6c28e5" parent="109bab5028b4a" root="c553ac08a5d77" order="8" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="586" wordCount="31" paraCount="13" cursorPos="794" />
+      <meta expanded="no" heading="H1" charCount="614" wordCount="34" paraCount="15" cursorPos="793" />
       <name status="s0caabc" import="id255c4" active="yes">其他</name>
     </item>
     <item handle="26c30299e77d0" parent="109bab5028b4a" root="c553ac08a5d77" order="9" type="FILE" class="CHARACTER" layout="NOTE">
