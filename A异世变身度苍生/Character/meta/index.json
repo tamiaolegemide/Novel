@@ -1,7 +1,7 @@
 {
   "novelWriter.meta": {
     "version": "0x260102f0",
-    "timestamp": "2026-08-05 15:15:34"
+    "timestamp": "2026-08-06 16:58:35"
   },
   "novelWriter.tagsIndex": {
     "\u96c5\u5c14\u8299": {"name": "\u96c5\u5c14\u8299", "display": "\u96c5\u5c14\u8299", "handle": "d17553bdc1c16", "heading": "T0001", "class": "CHARACTER"},
@@ -595,19 +595,22 @@
         "meta": {"level": "H1", "title": "\u533b\u5b66", "line": 1, "tag": "", "counts": [2, 1, 0]}
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "\u8d6b\u62c9\u65cf", "line": 2, "tag": "", "counts": [34, 2, 1]}
+        "meta": {"level": "H2", "title": "\u5927\u9646\u79f0\u53f7", "line": 2, "tag": "", "counts": [11, 2, 1]}
       },
       "T0003": {
-        "meta": {"level": "H2", "title": "\u804c\u79f0", "line": 5, "tag": "", "counts": [24, 7, 1]}
+        "meta": {"level": "H2", "title": "\u8d6b\u62c9\u65cf", "line": 5, "tag": "", "counts": [34, 2, 1]}
       },
       "T0004": {
-        "meta": {"level": "H2", "title": "\u6d3e\u7cfb", "line": 13, "tag": "", "counts": [14, 4, 1]}
+        "meta": {"level": "H2", "title": "\u804c\u79f0", "line": 8, "tag": "", "counts": [24, 7, 1]}
       },
       "T0005": {
-        "meta": {"level": "H2", "title": "\u5934\u8854", "line": 19, "tag": "", "counts": [12, 2, 1]}
+        "meta": {"level": "H2", "title": "\u6d3e\u7cfb", "line": 16, "tag": "", "counts": [14, 4, 1]}
       },
       "T0006": {
-        "meta": {"level": "H2", "title": "\u9b54\u5bfc\u533b\u5e08", "line": 22, "tag": "", "counts": [10, 2, 1]}
+        "meta": {"level": "H2", "title": "\u5934\u8854", "line": 22, "tag": "", "counts": [12, 2, 1]}
+      },
+      "T0007": {
+        "meta": {"level": "H2", "title": "\u9b54\u5bfc\u533b\u5e08", "line": 25, "tag": "", "counts": [10, 2, 1]}
       }
     },
     "8f7cd25611da9": {
