@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-06 16:58:35">
-  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="74" autoCount="988" editTime="984743">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-07 16:40:38">
+  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="75" autoCount="1005" editTime="1008759">
     <name>YIshijie</name>
     <author />
   </project>
@@ -9,7 +9,7 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">8fd7efb0dc3c6</entry>
+      <entry key="editor">d17553bdc1c16</entry>
       <entry key="viewer">e46c5f96346ce</entry>
       <entry key="novel">e6821628afafd</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="i1969a5" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="87" novelWords="68" notesWords="675" novelChars="830" notesChars="7592">
+  <content items="87" novelWords="68" notesWords="686" novelChars="830" notesChars="7704">
     <item handle="e6821628afafd" parent="None" root="e6821628afafd" order="0" type="ROOT" class="NOVEL">
       <meta expanded="no" />
       <name status="s0caabc" import="id255c4">Novel</name>
@@ -94,7 +94,7 @@
       <name status="s0caabc" import="id255c4" active="yes">医学</name>
     </item>
     <item handle="8f7cd25611da9" parent="5d686a8473f34" root="5d686a8473f34" order="4" type="FILE" class="OBJECT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="180" wordCount="23" paraCount="4" cursorPos="4" />
+      <meta expanded="no" heading="H1" charCount="286" wordCount="33" paraCount="5" cursorPos="231" />
       <name status="s0caabc" import="id255c4" active="yes">建制级</name>
     </item>
     <item handle="995c2359f7110" parent="5d686a8473f34" root="5d686a8473f34" order="5" type="FILE" class="OBJECT" layout="NOTE">
@@ -122,7 +122,7 @@
       <name status="s0caabc" import="id255c4">Characters</name>
     </item>
     <item handle="d17553bdc1c16" parent="c553ac08a5d77" root="c553ac08a5d77" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="627" wordCount="27" paraCount="13" cursorPos="889" />
+      <meta expanded="no" heading="H1" charCount="627" wordCount="27" paraCount="13" cursorPos="360" />
       <name status="s0caabc" import="id255c4" active="yes">主角雅尔芙</name>
     </item>
     <item handle="b7996b9acf7b2" parent="c553ac08a5d77" root="c553ac08a5d77" order="1" type="FILE" class="CHARACTER" layout="NOTE">
@@ -182,7 +182,7 @@
       <name status="s0caabc" import="id255c4" active="yes">洛丹克家族</name>
     </item>
     <item handle="8e0525cbaec0a" parent="109bab5028b4a" root="c553ac08a5d77" order="5" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="292" wordCount="20" paraCount="9" cursorPos="460" />
+      <meta expanded="no" heading="H1" charCount="298" wordCount="21" paraCount="10" cursorPos="477" />
       <name status="s0caabc" import="id255c4" active="yes">常青学院</name>
     </item>
     <item handle="41a5d0c998748" parent="109bab5028b4a" root="c553ac08a5d77" order="6" type="FILE" class="CHARACTER" layout="NOTE">
@@ -302,7 +302,7 @@
       <name status="s0caabc" import="id255c4">魔界</name>
     </item>
     <item handle="44d62fe0e30e9" parent="dc9faf22f2122" root="c553ac08a5d77" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="9" wordCount="3" paraCount="0" cursorPos="93" />
+      <meta expanded="no" heading="H1" charCount="9" wordCount="3" paraCount="0" cursorPos="12" />
       <name status="s0caabc" import="id255c4" active="yes">魔族</name>
     </item>
     <item handle="cd2a6ac103f2c" parent="c553ac08a5d77" root="c553ac08a5d77" order="10" type="FILE" class="CHARACTER" layout="NOTE">
