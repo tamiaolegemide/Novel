@@ -29,7 +29,7 @@ content/506e20bff03d7.nwd  CHARACTER  NOTE      神圣联邦共和国
 content/0bdfe6e957633.nwd  CHARACTER  NOTE      地形
 content/fa34abfd9a90f.nwd  CHARACTER  NOTE      光明圣教
 content/7cd0e7348c01d.nwd  CHARACTER  NOTE      王室
-content/92cffd4eb75c5.nwd  CHARACTER  NOTE      王国官员
+content/92cffd4eb75c5.nwd  CHARACTER  NOTE      军队官员
 content/6624b275317e1.nwd  CHARACTER  NOTE      苏代家族
 content/33a9eb38bb0d4.nwd  CHARACTER  NOTE      拉马维家族
 content/b3c5530a8e26e.nwd  CHARACTER  NOTE      马里鸟台家族
@@ -52,6 +52,8 @@ content/fbc3340b65760.nwd  CHARACTER  NOTE      洛丹克堡
 content/c3081fd9b1e1b.nwd  CHARACTER  NOTE      苏摩镇
 content/42f2126091f16.nwd  CHARACTER  NOTE      王都夏尔城
 content/a826503f1fe6d.nwd  CHARACTER  NOTE      魔怪
+content/b2a370ce262b0.nwd  CHARACTER  NOTE      罗司城
+content/1b36cba46fc4b.nwd  CHARACTER  NOTE      芬金莱尼城
 content/f3c6707bfa667.nwd  CHARACTER  NOTE      魔王
 content/506a7454a22f2.nwd  CHARACTER  NOTE      皇室
 content/de5bc65d6fca8.nwd  CHARACTER  NOTE      世王族
