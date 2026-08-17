@@ -1,7 +1,7 @@
 {
   "novelWriter.meta": {
     "version": "0x260102f0",
-    "timestamp": "2026-08-14 16:57:38"
+    "timestamp": "2026-08-17 16:58:12"
   },
   "novelWriter.tagsIndex": {
     "\u96c5\u5c14\u8299": {"name": "\u96c5\u5c14\u8299", "display": "\u96c5\u5c14\u8299", "handle": "d17553bdc1c16", "heading": "T0001", "class": "CHARACTER"},
@@ -168,56 +168,56 @@
   "novelWriter.itemIndex": {
     "a93a2fe54b336": {
       "T0001": {
-        "meta": {"level": "H1", "title": "\u4e3b\u7ebf", "line": 1, "tag": "", "counts": [15, 2, 1]}
+        "meta": {"level": "H1", "title": "\u4e3b\u7ebf", "line": 1, "tag": "", "counts": [108, 5, 1]}
       },
       "T0002": {
-        "meta": {"level": "H1", "title": "BOSS", "line": 4, "tag": "", "counts": [4, 1, 0]},
+        "meta": {"level": "H1", "title": "BOSS", "line": 7, "tag": "", "counts": [4, 1, 0]},
         "refs": {"\u8ff7\u4e4b\u65c5\u8005": "@mention", "\u7d22\u7f57\u592b": "@mention", "\u521b\u9020\u795e": "@mention"}
       },
       "T0003": {
-        "meta": {"level": "H2", "title": "\u5f53\u524d\u60c5\u51b5", "line": 9, "tag": "", "counts": [212, 11, 2]}
+        "meta": {"level": "H2", "title": "\u5f53\u524d\u60c5\u51b5", "line": 12, "tag": "", "counts": [212, 11, 2]}
       },
       "T0004": {
-        "meta": {"level": "H2", "title": "\u5267\u60c5\u53d1\u5c55", "line": 21, "tag": "", "counts": [637, 45, 6]}
+        "meta": {"level": "H2", "title": "\u5267\u60c5\u53d1\u5c55", "line": 24, "tag": "", "counts": [637, 45, 6]}
       },
       "T0005": {
-        "meta": {"level": "H2", "title": "\u7ebf\u7d22", "line": 73, "tag": "", "counts": [66, 9, 1]}
+        "meta": {"level": "H2", "title": "\u7ebf\u7d22", "line": 76, "tag": "", "counts": [66, 9, 1]}
       },
       "T0006": {
-        "meta": {"level": "H1", "title": "\u652f\u7ebf", "line": 83, "tag": "", "counts": [2, 1, 0]}
+        "meta": {"level": "H1", "title": "\u652f\u7ebf", "line": 86, "tag": "", "counts": [2, 1, 0]}
       },
       "T0007": {
-        "meta": {"level": "H2", "title": "\u5b66\u533b", "line": 85, "tag": "", "counts": [20, 2, 1]},
+        "meta": {"level": "H2", "title": "\u5b66\u533b", "line": 88, "tag": "", "counts": [20, 2, 1]},
         "refs": {"\u7d22\u7f57\u592b": "@mention"}
       },
       "T0008": {
-        "meta": {"level": "H2", "title": "\u5b66\u9a6f\u517d", "line": 89, "tag": "", "counts": [3, 1, 0]}
+        "meta": {"level": "H2", "title": "\u5b66\u9a6f\u517d", "line": 92, "tag": "", "counts": [3, 1, 0]}
       },
       "T0009": {
-        "meta": {"level": "H2", "title": "\u5b66\u5236\u836f", "line": 91, "tag": "", "counts": [13, 2, 1]}
+        "meta": {"level": "H2", "title": "\u5b66\u5236\u836f", "line": 94, "tag": "", "counts": [13, 2, 1]}
       },
       "T0010": {
-        "meta": {"level": "H2", "title": "\u5b66\u94ed\u7eb9", "line": 94, "tag": "", "counts": [13, 2, 1]}
+        "meta": {"level": "H2", "title": "\u5b66\u94ed\u7eb9", "line": 97, "tag": "", "counts": [13, 2, 1]}
       },
       "T0011": {
-        "meta": {"level": "H2", "title": "\u89e3\u51b3\u5e93\u6d1b\u7684\u4e8b", "line": 97, "tag": "", "counts": [11, 2, 1]},
+        "meta": {"level": "H2", "title": "\u89e3\u51b3\u5e93\u6d1b\u7684\u4e8b", "line": 100, "tag": "", "counts": [11, 2, 1]},
         "refs": {"\u5e93\u6d1b": "@char"}
       },
       "T0012": {
-        "meta": {"level": "H2", "title": "\u8f9b\u91cc\u65af\u5766\u88ab\u8bef\u602a", "line": 101, "tag": "", "counts": [7, 1, 0]},
+        "meta": {"level": "H2", "title": "\u8f9b\u91cc\u65af\u5766\u88ab\u8bef\u602a", "line": 104, "tag": "", "counts": [7, 1, 0]},
         "refs": {"\u963f\u4e39": "@char"}
       },
       "T0013": {
-        "meta": {"level": "H2", "title": "\u8f9b\u91cc\u65af\u5766\u8bed\u6559\u6388\u88ab\u6740", "line": 104, "tag": "", "counts": [9, 1, 0]}
+        "meta": {"level": "H2", "title": "\u8f9b\u91cc\u65af\u5766\u8bed\u6559\u6388\u88ab\u6740", "line": 107, "tag": "", "counts": [9, 1, 0]}
       },
       "T0014": {
-        "meta": {"level": "H2", "title": "\u5e2e\u6234\u5b89\u5a1c\u548c\u7231\u5fb7\u534e\u593a\u738b\u4f4d", "line": 106, "tag": "", "counts": [11, 1, 0]}
+        "meta": {"level": "H2", "title": "\u5e2e\u6234\u5b89\u5a1c\u548c\u7231\u5fb7\u534e\u593a\u738b\u4f4d", "line": 109, "tag": "", "counts": [11, 1, 0]}
       },
       "T0015": {
-        "meta": {"level": "H2", "title": "\u534e\u83b1\u8ba9\u96c5\u5c14\u8299\u5e2e\u4ed6\u6cbb\u5f1f\u5f1f", "line": 108, "tag": "", "counts": [11, 1, 0]}
+        "meta": {"level": "H2", "title": "\u534e\u83b1\u8ba9\u96c5\u5c14\u8299\u5e2e\u4ed6\u6cbb\u5f1f\u5f1f", "line": 111, "tag": "", "counts": [11, 1, 0]}
       },
       "T0016": {
-        "meta": {"level": "H2", "title": "\u533b\u751f\u8ba9\u96c5\u5c14\u8299\u548c\u4ed6\u4e00\u8d77\u7814\u7a76", "line": 110, "tag": "", "counts": [12, 1, 0]}
+        "meta": {"level": "H2", "title": "\u533b\u751f\u8ba9\u96c5\u5c14\u8299\u548c\u4ed6\u4e00\u8d77\u7814\u7a76", "line": 113, "tag": "", "counts": [12, 1, 0]}
       }
     },
     "3cd2bc0f3f220": {
@@ -677,7 +677,7 @@
         "meta": {"level": "H2", "title": "\u54c8\u591a\u62c9\u738b\u56fd", "line": 12, "tag": "\u516d\u81c2\u4fee\u7f57\u62f3", "counts": [5, 1, 0]}
       },
       "T0005": {
-        "meta": {"level": "H2", "title": "\u5723\u4f5b\u90ce\u5e1d\u56fd", "line": 15, "tag": "\u7075\u9b42\u4e4b\u4e88", "counts": [322, 26, 10]}
+        "meta": {"level": "H2", "title": "\u5723\u4f5b\u90ce\u5e1d\u56fd", "line": 15, "tag": "\u7075\u9b42\u4e4b\u4e88", "counts": [324, 26, 10]}
       },
       "T0006": {
         "meta": {"level": "H2", "title": "\u8bc5\u5492", "line": 81, "tag": "\u70c8\u706b\u51b0\u5fc3\u51b3\u3002", "counts": [1031, 71, 19]},
@@ -853,7 +853,7 @@
         "meta": {"level": "H1", "title": "\u516d\u8000", "line": 1, "tag": "", "counts": [2, 1, 0]}
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "\u5317\u8499\u5e1d\u56fd", "line": 3, "tag": "", "counts": [4, 1, 0]},
+        "meta": {"level": "H2", "title": "\u5317\u8499\u5e1d\u56fd", "line": 3, "tag": "", "counts": [19, 5, 4]},
         "refs": {"\u95e8\u5ba1\uff0d\u5e0c\u6bd4\u91cc": "@mention", "\u6f06\u9ed1\u7384\u6c14": "@object", "\u54c8\u4e4e\u62c9-\u624e\u547c\u513f\u592a": "@mention", "\u5317\u8499\u96ea\u8c61\u529f": "@object"}
       }
     },
