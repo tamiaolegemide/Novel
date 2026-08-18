@@ -54,7 +54,6 @@ content/42f2126091f16.nwd  CHARACTER  NOTE      王都夏尔城
 content/a826503f1fe6d.nwd  CHARACTER  NOTE      魔怪
 content/b2a370ce262b0.nwd  CHARACTER  NOTE      罗司城
 content/1b36cba46fc4b.nwd  CHARACTER  NOTE      芬金莱尼城
-content/f3c6707bfa667.nwd  CHARACTER  NOTE      魔王
 content/506a7454a22f2.nwd  CHARACTER  NOTE      皇室
 content/de5bc65d6fca8.nwd  CHARACTER  NOTE      世王族
 content/9f2f1eb2d6355.nwd  CHARACTER  NOTE      重要人物
@@ -74,3 +73,4 @@ content/5e67718965c96.nwd  TRASH      NOTE      辛里斯坦
 content/426001372d425.nwd  TRASH      NOTE      北蒙帝国
 content/8a201382648e0.nwd  TRASH      NOTE      索罗夫
 content/a86289d0715d0.nwd  TRASH      NOTE      城名
+content/f3c6707bfa667.nwd  TRASH      NOTE      魔王
