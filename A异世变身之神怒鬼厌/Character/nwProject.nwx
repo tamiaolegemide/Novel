@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-18 14:40:03">
-  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="81" autoCount="1103" editTime="1111030">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-19 15:57:11">
+  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="82" autoCount="1110" editTime="1133114">
     <name>YIshijie</name>
     <author />
   </project>
@@ -9,7 +9,7 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">44d62fe0e30e9</entry>
+      <entry key="editor">7cd0e7348c01d</entry>
       <entry key="viewer">e46c5f96346ce</entry>
       <entry key="novel">e6821628afafd</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="i1969a5" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="89" novelWords="68" notesWords="710" novelChars="830" notesChars="8106">
+  <content items="89" novelWords="68" notesWords="713" novelChars="830" notesChars="8141">
     <item handle="e6821628afafd" parent="None" root="e6821628afafd" order="0" type="ROOT" class="NOVEL">
       <meta expanded="no" />
       <name status="s0caabc" import="id255c4">Novel</name>
@@ -94,7 +94,7 @@
       <name status="s0caabc" import="id255c4" active="yes">医学</name>
     </item>
     <item handle="8f7cd25611da9" parent="5d686a8473f34" root="5d686a8473f34" order="4" type="FILE" class="OBJECT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="286" wordCount="33" paraCount="5" cursorPos="231" />
+      <meta expanded="no" heading="H1" charCount="286" wordCount="33" paraCount="5" cursorPos="259" />
       <name status="s0caabc" import="id255c4" active="yes">建制级</name>
     </item>
     <item handle="995c2359f7110" parent="5d686a8473f34" root="5d686a8473f34" order="5" type="FILE" class="OBJECT" layout="NOTE">
@@ -158,7 +158,7 @@
       <name status="s0caabc" import="id255c4">洛斯伦王国</name>
     </item>
     <item handle="7cd0e7348c01d" parent="109bab5028b4a" root="c553ac08a5d77" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="170" wordCount="15" paraCount="8" cursorPos="136" />
+      <meta expanded="no" heading="H1" charCount="170" wordCount="15" paraCount="8" cursorPos="275" />
       <name status="s0caabc" import="id255c4" active="yes">王室</name>
     </item>
     <item handle="92cffd4eb75c5" parent="109bab5028b4a" root="c553ac08a5d77" order="1" type="FILE" class="CHARACTER" layout="NOTE">
@@ -270,7 +270,7 @@
       <name status="s0caabc" import="id255c4">北蒙帝国</name>
     </item>
     <item handle="506a7454a22f2" parent="76a7d0ccbe076" root="c553ac08a5d77" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="22" wordCount="4" paraCount="2" cursorPos="32" />
+      <meta expanded="no" heading="H1" charCount="53" wordCount="6" paraCount="3" cursorPos="51" />
       <name status="s0caabc" import="id255c4" active="yes">皇室</name>
     </item>
     <item handle="de5bc65d6fca8" parent="76a7d0ccbe076" root="c553ac08a5d77" order="1" type="FILE" class="CHARACTER" layout="NOTE">
@@ -278,7 +278,7 @@
       <name status="s0caabc" import="id255c4" active="yes">世王族</name>
     </item>
     <item handle="9f2f1eb2d6355" parent="76a7d0ccbe076" root="c553ac08a5d77" order="2" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="6" wordCount="2" paraCount="1" cursorPos="22" />
+      <meta expanded="no" heading="H1" charCount="10" wordCount="3" paraCount="2" cursorPos="32" />
       <name status="s0caabc" import="id255c4" active="yes">重要人物</name>
     </item>
     <item handle="dc72e59abbb2e" parent="c553ac08a5d77" root="c553ac08a5d77" order="7" type="FOLDER" class="CHARACTER">

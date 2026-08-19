@@ -1,7 +1,7 @@
 {
   "novelWriter.meta": {
     "version": "0x260102f0",
-    "timestamp": "2026-08-18 14:40:03"
+    "timestamp": "2026-08-19 15:57:11"
   },
   "novelWriter.tagsIndex": {
     "\u96c5\u5c14\u8299": {"name": "\u96c5\u5c14\u8299", "display": "\u96c5\u5c14\u8299", "handle": "d17553bdc1c16", "heading": "T0001", "class": "CHARACTER"},
@@ -164,7 +164,8 @@
     "\u624e\u7f57\uff0d\u54c8 \u5df4\u5c3c": {"name": "\u624e\u7f57\uff0d\u54c8 \u5df4\u5c3c", "display": "\u624e\u7f57\uff0d\u54c8 \u5df4\u5c3c", "handle": "b2a370ce262b0", "heading": "T0002", "class": "CHARACTER"},
     "\u9b54\u738b\u963f\u4e39": {"name": "\u9b54\u738b\u963f\u4e39", "display": "\u9b54\u738b\u963f\u4e39", "handle": "44d62fe0e30e9", "heading": "T0003", "class": "CHARACTER"},
     "\u9b54\u591a\u60c5": {"name": "\u9b54\u591a\u60c5", "display": "\u9b54\u591a\u60c5", "handle": "44d62fe0e30e9", "heading": "T0004", "class": "CHARACTER"},
-    "\u6b7b\u65e0\u5730": {"name": "\u6b7b\u65e0\u5730", "display": "\u6b7b\u65e0\u5730", "handle": "44d62fe0e30e9", "heading": "T0004", "class": "CHARACTER"}
+    "\u6b7b\u65e0\u5730": {"name": "\u6b7b\u65e0\u5730", "display": "\u6b7b\u65e0\u5730", "handle": "44d62fe0e30e9", "heading": "T0004", "class": "CHARACTER"},
+    "\u963f\u514b\u8499\u5fb7": {"name": "\u963f\u514b\u8499\u5fb7", "display": "\u963f\u514b\u8499\u5fb7", "handle": "9f2f1eb2d6355", "heading": "T0001", "class": "CHARACTER"}
   },
   "novelWriter.itemIndex": {
     "a93a2fe54b336": {
@@ -453,7 +454,7 @@
         "meta": {"level": "H1", "title": "\u7687\u5ba4", "line": 1, "tag": "", "counts": [2, 1, 0]}
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "\u9996\u90fd\uff1a\u624e\u547c\u5df4\u5410\u57ce", "line": 3, "tag": "\u54c8\u4e4e\u62c9-\u624e\u547c\u513f\u592a", "counts": [20, 3, 2]}
+        "meta": {"level": "H2", "title": "\u9996\u90fd\uff1a\u624e\u547c\u5df4\u5410\u57ce", "line": 3, "tag": "\u54c8\u4e4e\u62c9-\u624e\u547c\u513f\u592a", "counts": [51, 5, 3]}
       }
     },
     "de5bc65d6fca8": {
@@ -467,7 +468,7 @@
     },
     "9f2f1eb2d6355": {
       "T0001": {
-        "meta": {"level": "H1", "title": "\u91cd\u8981\u4eba\u7269", "line": 1, "tag": "\u5fc5\u79fb\u624e\u624e\u6728", "counts": [6, 2, 1]}
+        "meta": {"level": "H1", "title": "\u91cd\u8981\u4eba\u7269", "line": 1, "tag": "\u963f\u514b\u8499\u5fb7", "counts": [10, 3, 2]}
       }
     },
     "9b54da811797f": {
@@ -886,6 +887,11 @@
     "1b36cba46fc4b": {
       "T0001": {
         "meta": {"level": "H1", "title": "\u82ac\u91d1\u83b1\u5c3c\u57ce", "line": 1, "tag": "\u82ac\u91d1\u83b1\u5c3c", "counts": [64, 5, 1]}
+      }
+    },
+    "f3c6707bfa667": {
+      "T0000": {
+        "meta": {"level": "H0", "title": "", "line": 0, "tag": "", "counts": [0, 0, 0]}
       }
     }
   }
