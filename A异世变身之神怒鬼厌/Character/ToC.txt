@@ -21,7 +21,7 @@ content/995c2359f7110.nwd  OBJECT     NOTE      国家建制
 content/12236a335e948.nwd  OBJECT     NOTE      物品
 content/4fb9b628f1caa.nwd  OBJECT     NOTE      六耀
 content/54af5c99a7fba.nwd  OBJECT     NOTE      魔物
-content/d17553bdc1c16.nwd  CHARACTER  NOTE      主角雅尔芙
+content/d17553bdc1c16.nwd  CHARACTER  NOTE      主角林北
 content/b7996b9acf7b2.nwd  CHARACTER  NOTE      圣罗曼帝国
 content/2744da5ffa1a4.nwd  CHARACTER  NOTE      圣殿
 content/1c3db64a3c640.nwd  CHARACTER  NOTE      猎人协会
@@ -61,7 +61,9 @@ content/9b54da811797f.nwd  CHARACTER  NOTE      主神
 content/2db187aca8822.nwd  CHARACTER  NOTE      下界转生
 content/eea10bfd5be39.nwd  CHARACTER  NOTE      使徒
 content/44d62fe0e30e9.nwd  CHARACTER  NOTE      魔族
-content/cd2a6ac103f2c.nwd  CHARACTER  NOTE      玛亚王拉
+content/cd2a6ac103f2c.nwd  CHARACTER  NOTE      玛亚
+content/dc114f92a1b46.nwd  CHARACTER  NOTE      拜上教
+content/98101df1a7ac2.nwd  CHARACTER  NOTE      宗派
 content/b143e579f0318.nwd  TRASH      NOTE      阿里不－巴尔扎克
 content/b26d6af0f3f01.nwd  TRASH      NOTE      吉尔秋－巴尔扎克
 content/d17222c005aa8.nwd  TRASH      NOTE      戴安娜－巴尔扎克
