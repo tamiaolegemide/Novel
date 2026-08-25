@@ -1,12 +1,15 @@
 {
   "novelWriter.meta": {
     "version": "0x260102f0",
-    "timestamp": "2026-08-04 10:08:09"
+    "timestamp": "2026-08-25 16:58:37"
   },
   "novelWriter.tagsIndex": {
-    "\u5362\u4e16\u708e": {"name": "\u5362\u4e16\u708e", "display": "\u5362\u4e16\u708e", "handle": "875202767daa8", "heading": "T0001", "class": "CHARACTER"},
-    "\u5b59\u7acb": {"name": "\u5b59\u7acb", "display": "\u5b59\u7acb", "handle": "875202767daa8", "heading": "T0001", "class": "CHARACTER"},
-    "\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb": {"name": "\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb", "display": "\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb", "handle": "875202767daa8", "heading": "T0001", "class": "CHARACTER"}
+    "\u5362\u4e16\u708e": {"name": "\u5362\u4e16\u708e", "display": "\u5362\u4e16\u708e", "handle": "2e7bd2789ee39", "heading": "T0003", "class": "CHARACTER"},
+    "\u5b59\u7acb": {"name": "\u5b59\u7acb", "display": "\u5b59\u7acb", "handle": "2e7bd2789ee39", "heading": "T0003", "class": "CHARACTER"},
+    "\u8463\u4e8b\u957f": {"name": "\u8463\u4e8b\u957f", "display": "\u8463\u4e8b\u957f", "handle": "2e7bd2789ee39", "heading": "T0001", "class": "CHARACTER"},
+    "\u7ae5\u946b": {"name": "\u7ae5\u946b", "display": "\u7ae5\u946b", "handle": "2e7bd2789ee39", "heading": "T0002", "class": "CHARACTER"},
+    "\u6768\u5e06": {"name": "\u6768\u5e06", "display": "\u6768\u5e06", "handle": "2e7bd2789ee39", "heading": "T0002", "class": "CHARACTER"},
+    "\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb": {"name": "\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb", "display": "\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb", "handle": "2e7bd2789ee39", "heading": "T0003", "class": "CHARACTER"}
   },
   "novelWriter.itemIndex": {
     "40f9bbda9abd8": {
@@ -28,10 +31,10 @@
         "meta": {"level": "H1", "title": "\u4eba\u7269", "line": 1, "tag": "", "counts": [2, 1, 0]}
       },
       "T0002": {
-        "meta": {"level": "H1", "title": "\u6211", "line": 2, "tag": "", "counts": [13, 3, 1]}
+        "meta": {"level": "H1", "title": "\u6211", "line": 2, "tag": "", "counts": [18, 4, 1]}
       },
       "T0003": {
-        "meta": {"level": "H2", "title": "\u66f2\u7075", "line": 6, "tag": "", "counts": [17, 3, 1]}
+        "meta": {"level": "H2", "title": "\u66f2\u7075", "line": 7, "tag": "", "counts": [17, 3, 1]}
       }
     },
     "7b413efc14458": {
@@ -41,13 +44,18 @@
     },
     "2e7bd2789ee39": {
       "T0001": {
-        "meta": {"level": "H1", "title": "\u516c\u53f8", "line": 1, "tag": "", "counts": [7, 2, 1]}
+        "meta": {"level": "H1", "title": "\u516c\u53f8", "line": 1, "tag": "\u8463\u4e8b\u957f", "counts": [11, 3, 2]}
+      },
+      "T0002": {
+        "meta": {"level": "H2", "title": "\u7ae5\u946b", "line": 8, "tag": "\u6768\u5e06", "counts": [33, 5, 2]}
+      },
+      "T0003": {
+        "meta": {"level": "H2", "title": "\u5362\u6d3e", "line": 17, "tag": "\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb", "counts": [44, 10, 3]}
       }
     },
     "875202767daa8": {
-      "T0001": {
-        "meta": {"level": "H1", "title": "\u5362\u6d3e", "line": 1, "tag": "\u5218\u854a\uff5c\u5362\u4e16\u708e\u5973\u53cb", "counts": [44, 10, 3]},
-        "refs": {"\u5362\u4e16\u708e": "@mention"}
+      "T0000": {
+        "meta": {"level": "H0", "title": "", "line": 0, "tag": "", "counts": [0, 0, 0]}
       }
     },
     "0244d09f1a646": {
