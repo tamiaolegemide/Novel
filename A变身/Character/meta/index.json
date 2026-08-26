@@ -1,7 +1,7 @@
 {
   "novelWriter.meta": {
     "version": "0x260102f0",
-    "timestamp": "2026-08-25 16:55:00"
+    "timestamp": "2026-08-26 13:18:04"
   },
   "novelWriter.tagsIndex": {
     "\u82f1\u7075\u9879\u94fe\u963f\u514b\u8c22\u529b": {"name": "\u82f1\u7075\u9879\u94fe\u963f\u514b\u8c22\u529b", "display": "\u82f1\u7075\u9879\u94fe\u963f\u514b\u8c22\u529b", "handle": "12236a335e948", "heading": "T0001", "class": "OBJECT"},
@@ -934,7 +934,7 @@
     },
     "98101df1a7ac2": {
       "T0001": {
-        "meta": {"level": "H1", "title": "\u5b97\u6d3e", "line": 1, "tag": "", "counts": [75, 17, 1]}
+        "meta": {"level": "H1", "title": "\u5b97\u6d3e", "line": 1, "tag": "", "counts": [85, 19, 1]}
       }
     }
   }

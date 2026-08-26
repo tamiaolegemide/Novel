@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-25 16:55:00">
-  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="86" autoCount="1157" editTime="1186786">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-26 13:18:04">
+  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="88" autoCount="1159" editTime="1201541">
     <name>YIshijie</name>
     <author />
   </project>
@@ -9,7 +9,7 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">98101df1a7ac2</entry>
+      <entry key="editor">dc114f92a1b46</entry>
       <entry key="viewer">2db187aca8822</entry>
       <entry key="novel">e6821628afafd</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="i1969a5" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="91" novelWords="68" notesWords="781" novelChars="830" notesChars="8713">
+  <content items="91" novelWords="68" notesWords="786" novelChars="830" notesChars="8747">
     <item handle="e6821628afafd" parent="None" root="e6821628afafd" order="0" type="ROOT" class="NOVEL">
       <meta expanded="no" />
       <name status="s0caabc" import="id255c4">Novel</name>
@@ -310,11 +310,11 @@
       <name status="s0caabc" import="id255c4" active="yes">玛亚</name>
     </item>
     <item handle="dc114f92a1b46" parent="c553ac08a5d77" root="c553ac08a5d77" order="10" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="276" wordCount="35" paraCount="6" cursorPos="42" />
+      <meta expanded="no" heading="H1" charCount="300" wordCount="38" paraCount="6" cursorPos="93" />
       <name status="s0caabc" import="id255c4" active="yes">拜上教</name>
     </item>
     <item handle="98101df1a7ac2" parent="c553ac08a5d77" root="c553ac08a5d77" order="11" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="75" wordCount="17" paraCount="1" cursorPos="32" />
+      <meta expanded="no" heading="H1" charCount="85" wordCount="19" paraCount="1" cursorPos="4" />
       <name status="s0caabc" import="id255c4" active="yes">宗派</name>
     </item>
     <item handle="24f446b8f9a57" parent="None" root="24f446b8f9a57" order="5" type="ROOT" class="ARCHIVE">
