@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-26 13:18:04">
-  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="88" autoCount="1159" editTime="1201541">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-27 16:58:12">
+  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="90" autoCount="1166" editTime="1210067">
     <name>YIshijie</name>
     <author />
   </project>
@@ -9,7 +9,7 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">dc114f92a1b46</entry>
+      <entry key="editor">e46c5f96346ce</entry>
       <entry key="viewer">2db187aca8822</entry>
       <entry key="novel">e6821628afafd</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="i1969a5" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="91" novelWords="68" notesWords="786" novelChars="830" notesChars="8747">
+  <content items="91" novelWords="68" notesWords="773" novelChars="830" notesChars="8646">
     <item handle="e6821628afafd" parent="None" root="e6821628afafd" order="0" type="ROOT" class="NOVEL">
       <meta expanded="no" />
       <name status="s0caabc" import="id255c4">Novel</name>
@@ -38,7 +38,7 @@
       <name status="s0caabc" import="id255c4">Plot</name>
     </item>
     <item handle="a93a2fe54b336" parent="c8e5ef1dfe437" root="c8e5ef1dfe437" order="0" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="1139" wordCount="86" paraCount="14" cursorPos="115" />
+      <meta expanded="no" heading="H1" charCount="1038" wordCount="73" paraCount="12" cursorPos="122" />
       <name status="s0caabc" import="id255c4" active="yes">故事线索</name>
     </item>
     <item handle="3cd2bc0f3f220" parent="c8e5ef1dfe437" root="c8e5ef1dfe437" order="1" type="FILE" class="PLOT" layout="NOTE">
@@ -82,7 +82,7 @@
       <name status="s0caabc" import="id255c4" active="yes">Job</name>
     </item>
     <item handle="e46c5f96346ce" parent="5d686a8473f34" root="5d686a8473f34" order="1" type="FILE" class="OBJECT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="1626" wordCount="110" paraCount="39" cursorPos="2006" />
+      <meta expanded="no" heading="H1" charCount="1626" wordCount="110" paraCount="39" cursorPos="1881" />
       <name status="s0caabc" import="id255c4" active="yes">武功与诅咒</name>
     </item>
     <item handle="3424ddb15ee0d" parent="5d686a8473f34" root="5d686a8473f34" order="2" type="FILE" class="OBJECT" layout="NOTE">
