@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-27 16:58:12">
-  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="90" autoCount="1166" editTime="1210067">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-28 13:20:45">
+  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="92" autoCount="1181" editTime="1212494">
     <name>YIshijie</name>
     <author />
   </project>
@@ -10,7 +10,7 @@
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
       <entry key="editor">e46c5f96346ce</entry>
-      <entry key="viewer">2db187aca8822</entry>
+      <entry key="viewer">a93a2fe54b336</entry>
       <entry key="novel">e6821628afafd</entry>
       <entry key="outline">None</entry>
     </lastHandle>
@@ -28,7 +28,7 @@
       <entry key="i1969a5" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="91" novelWords="68" notesWords="773" novelChars="830" notesChars="8646">
+  <content items="91" novelWords="68" notesWords="803" novelChars="830" notesChars="8870">
     <item handle="e6821628afafd" parent="None" root="e6821628afafd" order="0" type="ROOT" class="NOVEL">
       <meta expanded="no" />
       <name status="s0caabc" import="id255c4">Novel</name>
@@ -82,7 +82,7 @@
       <name status="s0caabc" import="id255c4" active="yes">Job</name>
     </item>
     <item handle="e46c5f96346ce" parent="5d686a8473f34" root="5d686a8473f34" order="1" type="FILE" class="OBJECT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="1626" wordCount="110" paraCount="39" cursorPos="1881" />
+      <meta expanded="no" heading="H1" charCount="1839" wordCount="132" paraCount="44" cursorPos="1217" />
       <name status="s0caabc" import="id255c4" active="yes">武功与诅咒</name>
     </item>
     <item handle="3424ddb15ee0d" parent="5d686a8473f34" root="5d686a8473f34" order="2" type="FILE" class="OBJECT" layout="NOTE">
@@ -94,7 +94,7 @@
       <name status="s0caabc" import="id255c4" active="yes">医学</name>
     </item>
     <item handle="8f7cd25611da9" parent="5d686a8473f34" root="5d686a8473f34" order="4" type="FILE" class="OBJECT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="286" wordCount="33" paraCount="5" cursorPos="259" />
+      <meta expanded="no" heading="H1" charCount="247" wordCount="37" paraCount="5" cursorPos="303" />
       <name status="s0caabc" import="id255c4" active="yes">建制级</name>
     </item>
     <item handle="995c2359f7110" parent="5d686a8473f34" root="5d686a8473f34" order="5" type="FILE" class="OBJECT" layout="NOTE">
@@ -150,7 +150,7 @@
       <name status="s0caabc" import="id255c4" active="yes">地形</name>
     </item>
     <item handle="fa34abfd9a90f" parent="e51bd04000171" root="c553ac08a5d77" order="2" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="67" wordCount="19" paraCount="1" cursorPos="98" />
+      <meta expanded="no" heading="H1" charCount="117" wordCount="23" paraCount="2" cursorPos="92" />
       <name status="s0caabc" import="id255c4" active="yes">光明圣教</name>
     </item>
     <item handle="109bab5028b4a" parent="c553ac08a5d77" root="c553ac08a5d77" order="5" type="FOLDER" class="CHARACTER">
