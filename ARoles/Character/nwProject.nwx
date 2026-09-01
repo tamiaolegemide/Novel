@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-28 13:20:45">
-  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="92" autoCount="1181" editTime="1212494">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-01 16:27:32">
+  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="98" autoCount="1192" editTime="1216244">
     <name>YIshijie</name>
     <author />
   </project>
@@ -9,7 +9,7 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">e46c5f96346ce</entry>
+      <entry key="editor">dc114f92a1b46</entry>
       <entry key="viewer">a93a2fe54b336</entry>
       <entry key="novel">e6821628afafd</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="i1969a5" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="91" novelWords="68" notesWords="803" novelChars="830" notesChars="8870">
+  <content items="91" novelWords="68" notesWords="802" novelChars="830" notesChars="8821">
     <item handle="e6821628afafd" parent="None" root="e6821628afafd" order="0" type="ROOT" class="NOVEL">
       <meta expanded="no" />
       <name status="s0caabc" import="id255c4">Novel</name>
@@ -82,7 +82,7 @@
       <name status="s0caabc" import="id255c4" active="yes">Job</name>
     </item>
     <item handle="e46c5f96346ce" parent="5d686a8473f34" root="5d686a8473f34" order="1" type="FILE" class="OBJECT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="1839" wordCount="132" paraCount="44" cursorPos="1217" />
+      <meta expanded="no" heading="H1" charCount="1838" wordCount="131" paraCount="43" cursorPos="896" />
       <name status="s0caabc" import="id255c4" active="yes">武功与诅咒</name>
     </item>
     <item handle="3424ddb15ee0d" parent="5d686a8473f34" root="5d686a8473f34" order="2" type="FILE" class="OBJECT" layout="NOTE">
@@ -122,7 +122,7 @@
       <name status="s0caabc" import="id255c4">Characters</name>
     </item>
     <item handle="d17553bdc1c16" parent="c553ac08a5d77" root="c553ac08a5d77" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="591" wordCount="32" paraCount="9" cursorPos="782" />
+      <meta expanded="no" heading="H1" charCount="533" wordCount="28" paraCount="8" cursorPos="80" />
       <name status="s0caabc" import="id255c4" active="yes">主角林北</name>
     </item>
     <item handle="b7996b9acf7b2" parent="c553ac08a5d77" root="c553ac08a5d77" order="1" type="FILE" class="CHARACTER" layout="NOTE">
@@ -310,7 +310,7 @@
       <name status="s0caabc" import="id255c4" active="yes">玛亚</name>
     </item>
     <item handle="dc114f92a1b46" parent="c553ac08a5d77" root="c553ac08a5d77" order="10" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="300" wordCount="38" paraCount="6" cursorPos="93" />
+      <meta expanded="no" heading="H1" charCount="310" wordCount="42" paraCount="11" cursorPos="66" />
       <name status="s0caabc" import="id255c4" active="yes">拜上教</name>
     </item>
     <item handle="98101df1a7ac2" parent="c553ac08a5d77" root="c553ac08a5d77" order="11" type="FILE" class="CHARACTER" layout="NOTE">
