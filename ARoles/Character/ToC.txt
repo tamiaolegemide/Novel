@@ -21,7 +21,7 @@ content/995c2359f7110.nwd  OBJECT     NOTE      国家建制
 content/12236a335e948.nwd  OBJECT     NOTE      物品
 content/4fb9b628f1caa.nwd  OBJECT     NOTE      六耀
 content/54af5c99a7fba.nwd  OBJECT     NOTE      魔物
-content/d17553bdc1c16.nwd  CHARACTER  NOTE      主角林北
+content/d17553bdc1c16.nwd  CHARACTER  NOTE      主配角
 content/b7996b9acf7b2.nwd  CHARACTER  NOTE      圣罗曼帝国
 content/2744da5ffa1a4.nwd  CHARACTER  NOTE      圣殿
 content/1c3db64a3c640.nwd  CHARACTER  NOTE      猎人协会
@@ -57,9 +57,10 @@ content/1b36cba46fc4b.nwd  CHARACTER  NOTE      芬金莱尼城
 content/506a7454a22f2.nwd  CHARACTER  NOTE      皇室
 content/de5bc65d6fca8.nwd  CHARACTER  NOTE      世王族
 content/9f2f1eb2d6355.nwd  CHARACTER  NOTE      重要人物
-content/9b54da811797f.nwd  CHARACTER  NOTE      主神
+content/9b54da811797f.nwd  CHARACTER  NOTE      天神
 content/2db187aca8822.nwd  CHARACTER  NOTE      下界转生
 content/eea10bfd5be39.nwd  CHARACTER  NOTE      使徒
+content/3a67ef81a6560.nwd  CHARACTER  NOTE      魔神
 content/44d62fe0e30e9.nwd  CHARACTER  NOTE      魔族
 content/cd2a6ac103f2c.nwd  CHARACTER  NOTE      玛亚
 content/dc114f92a1b46.nwd  CHARACTER  NOTE      拜上教
@@ -76,3 +77,4 @@ content/426001372d425.nwd  TRASH      NOTE      北蒙帝国
 content/8a201382648e0.nwd  TRASH      NOTE      索罗夫
 content/a86289d0715d0.nwd  TRASH      NOTE      城名
 content/f3c6707bfa667.nwd  TRASH      NOTE      魔王
+content/245c8a921a4bc.nwd  TRASH      NOTE      重要配角

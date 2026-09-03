@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-01 16:27:32">
-  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="98" autoCount="1192" editTime="1216244">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-03 16:22:54">
+  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="104" autoCount="1235" editTime="1244089">
     <name>YIshijie</name>
     <author />
   </project>
@@ -9,8 +9,8 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">dc114f92a1b46</entry>
-      <entry key="viewer">a93a2fe54b336</entry>
+      <entry key="editor">4fb9b628f1caa</entry>
+      <entry key="viewer">d17553bdc1c16</entry>
       <entry key="novel">e6821628afafd</entry>
       <entry key="outline">None</entry>
     </lastHandle>
@@ -22,13 +22,13 @@
       <entry key="s2032ea" count="0" color="green" shape="STAR">Finished</entry>
     </status>
     <importance>
-      <entry key="id255c4" count="89" color="purple" shape="SQUARE">New</entry>
+      <entry key="id255c4" count="92" color="purple" shape="SQUARE">New</entry>
       <entry key="i9b84ff" count="0" color="purple" shape="BLOCK_2">Minor</entry>
       <entry key="ia354df" count="0" color="purple" shape="BLOCK_3">Major</entry>
       <entry key="i1969a5" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="91" novelWords="68" notesWords="802" novelChars="830" notesChars="8821">
+  <content items="94" novelWords="68" notesWords="842" novelChars="830" notesChars="9103">
     <item handle="e6821628afafd" parent="None" root="e6821628afafd" order="0" type="ROOT" class="NOVEL">
       <meta expanded="no" />
       <name status="s0caabc" import="id255c4">Novel</name>
@@ -38,7 +38,7 @@
       <name status="s0caabc" import="id255c4">Plot</name>
     </item>
     <item handle="a93a2fe54b336" parent="c8e5ef1dfe437" root="c8e5ef1dfe437" order="0" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="1038" wordCount="73" paraCount="12" cursorPos="122" />
+      <meta expanded="no" heading="H1" charCount="1121" wordCount="81" paraCount="15" cursorPos="243" />
       <name status="s0caabc" import="id255c4" active="yes">故事线索</name>
     </item>
     <item handle="3cd2bc0f3f220" parent="c8e5ef1dfe437" root="c8e5ef1dfe437" order="1" type="FILE" class="PLOT" layout="NOTE">
@@ -82,7 +82,7 @@
       <name status="s0caabc" import="id255c4" active="yes">Job</name>
     </item>
     <item handle="e46c5f96346ce" parent="5d686a8473f34" root="5d686a8473f34" order="1" type="FILE" class="OBJECT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="1838" wordCount="131" paraCount="43" cursorPos="896" />
+      <meta expanded="no" heading="H1" charCount="1911" wordCount="138" paraCount="45" cursorPos="1030" />
       <name status="s0caabc" import="id255c4" active="yes">武功与诅咒</name>
     </item>
     <item handle="3424ddb15ee0d" parent="5d686a8473f34" root="5d686a8473f34" order="2" type="FILE" class="OBJECT" layout="NOTE">
@@ -106,7 +106,7 @@
       <name status="s0caabc" import="id255c4" active="yes">物品</name>
     </item>
     <item handle="4fb9b628f1caa" parent="5d686a8473f34" root="5d686a8473f34" order="7" type="FILE" class="OBJECT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="89" wordCount="9" paraCount="5" cursorPos="172" />
+      <meta expanded="no" heading="H1" charCount="92" wordCount="10" paraCount="5" cursorPos="85" />
       <name status="s0caabc" import="id255c4" active="yes">六耀</name>
     </item>
     <item handle="54af5c99a7fba" parent="5d686a8473f34" root="5d686a8473f34" order="8" type="FILE" class="OBJECT" layout="NOTE">
@@ -122,8 +122,8 @@
       <name status="s0caabc" import="id255c4">Characters</name>
     </item>
     <item handle="d17553bdc1c16" parent="c553ac08a5d77" root="c553ac08a5d77" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="533" wordCount="28" paraCount="8" cursorPos="80" />
-      <name status="s0caabc" import="id255c4" active="yes">主角林北</name>
+      <meta expanded="no" heading="H1" charCount="583" wordCount="35" paraCount="10" cursorPos="804" />
+      <name status="s0caabc" import="id255c4" active="yes">主配角</name>
     </item>
     <item handle="b7996b9acf7b2" parent="c553ac08a5d77" root="c553ac08a5d77" order="1" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="99" wordCount="8" paraCount="3" cursorPos="120" />
@@ -286,23 +286,31 @@
       <name status="s0caabc" import="id255c4">神界</name>
     </item>
     <item handle="9b54da811797f" parent="dc72e59abbb2e" root="c553ac08a5d77" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="142" wordCount="20" paraCount="9" cursorPos="175" />
-      <name status="s0caabc" import="id255c4" active="yes">主神</name>
+      <meta expanded="no" heading="H1" charCount="146" wordCount="20" paraCount="9" cursorPos="189" />
+      <name status="s0caabc" import="id255c4" active="yes">天神</name>
     </item>
     <item handle="2db187aca8822" parent="dc72e59abbb2e" root="c553ac08a5d77" order="1" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="69" wordCount="6" paraCount="2" cursorPos="85" />
+      <meta expanded="no" heading="H1" charCount="69" wordCount="6" paraCount="2" cursorPos="79" />
       <name status="s0caabc" import="id255c4" active="yes">下界转生</name>
     </item>
     <item handle="eea10bfd5be39" parent="dc72e59abbb2e" root="c553ac08a5d77" order="2" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="55" wordCount="3" paraCount="2" cursorPos="79" />
       <name status="s0caabc" import="id255c4" active="yes">使徒</name>
     </item>
+    <item handle="ce24cecf4c3b8" parent="dc72e59abbb2e" root="c553ac08a5d77" order="3" type="FOLDER" class="CHARACTER">
+      <meta expanded="no" />
+      <name status="s0caabc" import="id255c4">魔界</name>
+    </item>
+    <item handle="3a67ef81a6560" parent="ce24cecf4c3b8" root="c553ac08a5d77" order="0" type="FILE" class="CHARACTER" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="49" wordCount="12" paraCount="4" cursorPos="133" />
+      <name status="s0caabc" import="id255c4" active="yes">魔神</name>
+    </item>
     <item handle="dc9faf22f2122" parent="c553ac08a5d77" root="c553ac08a5d77" order="8" type="FOLDER" class="CHARACTER">
       <meta expanded="yes" />
       <name status="s0caabc" import="id255c4">魔界</name>
     </item>
     <item handle="44d62fe0e30e9" parent="dc9faf22f2122" root="c553ac08a5d77" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="44" wordCount="5" paraCount="1" cursorPos="132" />
+      <meta expanded="no" heading="H1" charCount="60" wordCount="9" paraCount="5" cursorPos="191" />
       <name status="s0caabc" import="id255c4" active="yes">魔族</name>
     </item>
     <item handle="cd2a6ac103f2c" parent="c553ac08a5d77" root="c553ac08a5d77" order="9" type="FILE" class="CHARACTER" layout="NOTE">
@@ -392,6 +400,10 @@
     <item handle="f3c6707bfa667" parent="cd4131477f8b7" root="d0e909923a7c1" order="0" type="FILE" class="TRASH" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="25" wordCount="6" paraCount="2" cursorPos="36" />
       <name status="s0caabc" import="id255c4" active="yes">魔王</name>
+    </item>
+    <item handle="245c8a921a4bc" parent="d0e909923a7c1" root="d0e909923a7c1" order="13" type="FILE" class="TRASH" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="4" wordCount="1" paraCount="0" cursorPos="0" />
+      <name status="s0caabc" import="id255c4" active="yes">重要配角</name>
     </item>
   </content>
 </novelWriterXML>
