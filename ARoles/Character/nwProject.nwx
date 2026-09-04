@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-03 16:22:54">
-  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="104" autoCount="1235" editTime="1244089">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-04 10:07:36">
+  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="105" autoCount="1236" editTime="1244563">
     <name>YIshijie</name>
     <author />
   </project>
@@ -9,8 +9,8 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">4fb9b628f1caa</entry>
-      <entry key="viewer">d17553bdc1c16</entry>
+      <entry key="editor">26c30299e77d0</entry>
+      <entry key="viewer">e46c5f96346ce</entry>
       <entry key="novel">e6821628afafd</entry>
       <entry key="outline">None</entry>
     </lastHandle>
@@ -28,7 +28,7 @@
       <entry key="i1969a5" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="94" novelWords="68" notesWords="842" novelChars="830" notesChars="9103">
+  <content items="94" novelWords="68" notesWords="842" novelChars="830" notesChars="9102">
     <item handle="e6821628afafd" parent="None" root="e6821628afafd" order="0" type="ROOT" class="NOVEL">
       <meta expanded="no" />
       <name status="s0caabc" import="id255c4">Novel</name>
@@ -198,7 +198,7 @@
       <name status="s0caabc" import="id255c4" active="yes">其他</name>
     </item>
     <item handle="26c30299e77d0" parent="109bab5028b4a" root="c553ac08a5d77" order="9" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="184" wordCount="17" paraCount="3" cursorPos="79" />
+      <meta expanded="no" heading="H1" charCount="183" wordCount="17" paraCount="3" cursorPos="17" />
       <name status="s0caabc" import="id255c4" active="yes">霜剑客派系</name>
     </item>
     <item handle="04e9ff4cd0641" parent="109bab5028b4a" root="c553ac08a5d77" order="10" type="FILE" class="CHARACTER" layout="NOTE">
