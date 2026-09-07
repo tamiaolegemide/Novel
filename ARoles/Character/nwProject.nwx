@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-04 10:07:36">
-  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="105" autoCount="1236" editTime="1244563">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-07 13:18:48">
+  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="109" autoCount="1244" editTime="1248499">
     <name>YIshijie</name>
     <author />
   </project>
@@ -9,7 +9,7 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">26c30299e77d0</entry>
+      <entry key="editor">8f7cd25611da9</entry>
       <entry key="viewer">e46c5f96346ce</entry>
       <entry key="novel">e6821628afafd</entry>
       <entry key="outline">None</entry>
@@ -22,13 +22,13 @@
       <entry key="s2032ea" count="0" color="green" shape="STAR">Finished</entry>
     </status>
     <importance>
-      <entry key="id255c4" count="92" color="purple" shape="SQUARE">New</entry>
+      <entry key="id255c4" count="93" color="purple" shape="SQUARE">New</entry>
       <entry key="i9b84ff" count="0" color="purple" shape="BLOCK_2">Minor</entry>
       <entry key="ia354df" count="0" color="purple" shape="BLOCK_3">Major</entry>
       <entry key="i1969a5" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="94" novelWords="68" notesWords="842" novelChars="830" notesChars="9102">
+  <content items="95" novelWords="68" notesWords="865" novelChars="830" notesChars="9220">
     <item handle="e6821628afafd" parent="None" root="e6821628afafd" order="0" type="ROOT" class="NOVEL">
       <meta expanded="no" />
       <name status="s0caabc" import="id255c4">Novel</name>
@@ -50,7 +50,7 @@
       <name status="s0caabc" import="id255c4">场景</name>
     </item>
     <item handle="d4b5730be74b2" parent="1a1234550a869" root="c8e5ef1dfe437" order="0" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="203" wordCount="10" paraCount="1" cursorPos="102" />
+      <meta expanded="no" heading="H1" charCount="203" wordCount="10" paraCount="1" cursorPos="182" />
       <name status="s0caabc" import="id255c4" active="yes">第六次人魔大战后</name>
     </item>
     <item handle="787f5fb9aaf72" parent="1a1234550a869" root="c8e5ef1dfe437" order="1" type="FILE" class="PLOT" layout="NOTE">
@@ -82,7 +82,7 @@
       <name status="s0caabc" import="id255c4" active="yes">Job</name>
     </item>
     <item handle="e46c5f96346ce" parent="5d686a8473f34" root="5d686a8473f34" order="1" type="FILE" class="OBJECT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="1911" wordCount="138" paraCount="45" cursorPos="1030" />
+      <meta expanded="no" heading="H1" charCount="1914" wordCount="138" paraCount="45" cursorPos="280" />
       <name status="s0caabc" import="id255c4" active="yes">武功与诅咒</name>
     </item>
     <item handle="3424ddb15ee0d" parent="5d686a8473f34" root="5d686a8473f34" order="2" type="FILE" class="OBJECT" layout="NOTE">
@@ -94,7 +94,7 @@
       <name status="s0caabc" import="id255c4" active="yes">医学</name>
     </item>
     <item handle="8f7cd25611da9" parent="5d686a8473f34" root="5d686a8473f34" order="4" type="FILE" class="OBJECT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="247" wordCount="37" paraCount="5" cursorPos="303" />
+      <meta expanded="no" heading="H1" charCount="343" wordCount="57" paraCount="7" cursorPos="396" />
       <name status="s0caabc" import="id255c4" active="yes">建制级</name>
     </item>
     <item handle="995c2359f7110" parent="5d686a8473f34" root="5d686a8473f34" order="5" type="FILE" class="OBJECT" layout="NOTE">
@@ -122,7 +122,7 @@
       <name status="s0caabc" import="id255c4">Characters</name>
     </item>
     <item handle="d17553bdc1c16" parent="c553ac08a5d77" root="c553ac08a5d77" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="583" wordCount="35" paraCount="10" cursorPos="804" />
+      <meta expanded="no" heading="H1" charCount="591" wordCount="36" paraCount="11" cursorPos="68" />
       <name status="s0caabc" import="id255c4" active="yes">主配角</name>
     </item>
     <item handle="b7996b9acf7b2" parent="c553ac08a5d77" root="c553ac08a5d77" order="1" type="FILE" class="CHARACTER" layout="NOTE">
@@ -206,7 +206,7 @@
       <name status="s0caabc" import="id255c4" active="yes">马里乌台</name>
     </item>
     <item handle="5ec47600d259b" parent="109bab5028b4a" root="c553ac08a5d77" order="11" type="FOLDER" class="CHARACTER">
-      <meta expanded="no" />
+      <meta expanded="yes" />
       <name status="s0caabc" import="id255c4">地形</name>
     </item>
     <item handle="0511d10ef6687" parent="5ec47600d259b" root="c553ac08a5d77" order="0" type="FILE" class="CHARACTER" layout="NOTE">
@@ -252,6 +252,10 @@
     <item handle="42f2126091f16" parent="5ec47600d259b" root="c553ac08a5d77" order="10" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="3" wordCount="1" paraCount="0" cursorPos="7" />
       <name status="s0caabc" import="id255c4" active="yes">王都夏尔城</name>
+    </item>
+    <item handle="5bc655a9d34cd" parent="5ec47600d259b" root="c553ac08a5d77" order="11" type="FILE" class="CHARACTER" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="11" wordCount="2" paraCount="1" cursorPos="25" />
+      <name status="s0caabc" import="id255c4" active="yes">黑沙荒原</name>
     </item>
     <item handle="a826503f1fe6d" parent="109bab5028b4a" root="c553ac08a5d77" order="12" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="246" wordCount="14" paraCount="1" cursorPos="202" />

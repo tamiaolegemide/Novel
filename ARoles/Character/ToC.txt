@@ -51,6 +51,7 @@ content/8252d237a973a.nwd  CHARACTER  NOTE      松子镇
 content/fbc3340b65760.nwd  CHARACTER  NOTE      洛丹克堡
 content/c3081fd9b1e1b.nwd  CHARACTER  NOTE      苏摩镇
 content/42f2126091f16.nwd  CHARACTER  NOTE      王都夏尔城
+content/5bc655a9d34cd.nwd  CHARACTER  NOTE      黑沙荒原
 content/a826503f1fe6d.nwd  CHARACTER  NOTE      魔怪
 content/b2a370ce262b0.nwd  CHARACTER  NOTE      罗司城
 content/1b36cba46fc4b.nwd  CHARACTER  NOTE      芬金莱尼城
