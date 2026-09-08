@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-07 13:18:48">
-  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="109" autoCount="1244" editTime="1248499">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-08 11:11:51">
+  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="111" autoCount="1246" editTime="1248697">
     <name>YIshijie</name>
     <author />
   </project>
@@ -9,7 +9,7 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">8f7cd25611da9</entry>
+      <entry key="editor">d17553bdc1c16</entry>
       <entry key="viewer">e46c5f96346ce</entry>
       <entry key="novel">e6821628afafd</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="i1969a5" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="95" novelWords="68" notesWords="865" novelChars="830" notesChars="9220">
+  <content items="95" novelWords="68" notesWords="877" novelChars="830" notesChars="9319">
     <item handle="e6821628afafd" parent="None" root="e6821628afafd" order="0" type="ROOT" class="NOVEL">
       <meta expanded="no" />
       <name status="s0caabc" import="id255c4">Novel</name>
@@ -122,7 +122,7 @@
       <name status="s0caabc" import="id255c4">Characters</name>
     </item>
     <item handle="d17553bdc1c16" parent="c553ac08a5d77" root="c553ac08a5d77" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="591" wordCount="36" paraCount="11" cursorPos="68" />
+      <meta expanded="no" heading="H1" charCount="611" wordCount="40" paraCount="11" cursorPos="67" />
       <name status="s0caabc" import="id255c4" active="yes">主配角</name>
     </item>
     <item handle="b7996b9acf7b2" parent="c553ac08a5d77" root="c553ac08a5d77" order="1" type="FILE" class="CHARACTER" layout="NOTE">
@@ -162,7 +162,7 @@
       <name status="s0caabc" import="id255c4" active="yes">王室</name>
     </item>
     <item handle="92cffd4eb75c5" parent="109bab5028b4a" root="c553ac08a5d77" order="1" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="27" wordCount="5" paraCount="1" cursorPos="54" />
+      <meta expanded="no" heading="H1" charCount="106" wordCount="13" paraCount="4" cursorPos="142" />
       <name status="s0caabc" import="id255c4" active="yes">军队官员</name>
     </item>
     <item handle="6624b275317e1" parent="109bab5028b4a" root="c553ac08a5d77" order="2" type="FILE" class="CHARACTER" layout="NOTE">
