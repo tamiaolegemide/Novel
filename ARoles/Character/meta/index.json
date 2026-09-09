@@ -1,7 +1,7 @@
 {
   "novelWriter.meta": {
     "version": "0x260102f0",
-    "timestamp": "2026-09-08 11:11:51"
+    "timestamp": "2026-09-09 14:08:16"
   },
   "novelWriter.tagsIndex": {
     "\u82f1\u7075\u9879\u94fe\u963f\u514b\u8c22\u529b": {"name": "\u82f1\u7075\u9879\u94fe\u963f\u514b\u8c22\u529b", "display": "\u82f1\u7075\u9879\u94fe\u963f\u514b\u8c22\u529b", "handle": "12236a335e948", "heading": "T0001", "class": "OBJECT"},
@@ -460,7 +460,7 @@
         "meta": {"level": "H2", "title": "\u5229\u8fbe", "line": 3, "tag": "", "counts": [14, 3, 1]}
       },
       "T0003": {
-        "meta": {"level": "H2", "title": "\u534e\u83b1\uff0d\u624e\u5c14\u745e", "line": 6, "tag": "\u4f0f\u65af\u6cf0", "counts": [642, 32, 16]},
+        "meta": {"level": "H2", "title": "\u534e\u83b1\uff0d\u624e\u5c14\u745e", "line": 6, "tag": "\u4f0f\u65af\u6cf0", "counts": [648, 33, 17]},
         "refs": {"\u5e93\u6d1b": "@char", "\u96c5\u5c14\u8299": "@char", "\u6770\u4eba\uff0d\u672c\u660e\u8bfa": "@mention"}
       }
     },

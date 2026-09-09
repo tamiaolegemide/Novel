@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-08 11:11:51">
-  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="111" autoCount="1246" editTime="1248697">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-09 14:08:16">
+  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="112" autoCount="1246" editTime="1248756">
     <name>YIshijie</name>
     <author />
   </project>
@@ -9,7 +9,7 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">d17553bdc1c16</entry>
+      <entry key="editor">421955c6c28e5</entry>
       <entry key="viewer">e46c5f96346ce</entry>
       <entry key="novel">e6821628afafd</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="i1969a5" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="95" novelWords="68" notesWords="877" novelChars="830" notesChars="9319">
+  <content items="95" novelWords="68" notesWords="878" novelChars="830" notesChars="9325">
     <item handle="e6821628afafd" parent="None" root="e6821628afafd" order="0" type="ROOT" class="NOVEL">
       <meta expanded="no" />
       <name status="s0caabc" import="id255c4">Novel</name>
@@ -94,7 +94,7 @@
       <name status="s0caabc" import="id255c4" active="yes">医学</name>
     </item>
     <item handle="8f7cd25611da9" parent="5d686a8473f34" root="5d686a8473f34" order="4" type="FILE" class="OBJECT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="343" wordCount="57" paraCount="7" cursorPos="396" />
+      <meta expanded="no" heading="H1" charCount="343" wordCount="57" paraCount="7" cursorPos="140" />
       <name status="s0caabc" import="id255c4" active="yes">建制级</name>
     </item>
     <item handle="995c2359f7110" parent="5d686a8473f34" root="5d686a8473f34" order="5" type="FILE" class="OBJECT" layout="NOTE">
@@ -194,7 +194,7 @@
       <name status="s0caabc" import="id255c4" active="yes">海格力夫</name>
     </item>
     <item handle="421955c6c28e5" parent="109bab5028b4a" root="c553ac08a5d77" order="8" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="658" wordCount="36" paraCount="17" cursorPos="845" />
+      <meta expanded="no" heading="H1" charCount="664" wordCount="37" paraCount="18" cursorPos="946" />
       <name status="s0caabc" import="id255c4" active="yes">其他</name>
     </item>
     <item handle="26c30299e77d0" parent="109bab5028b4a" root="c553ac08a5d77" order="9" type="FILE" class="CHARACTER" layout="NOTE">
