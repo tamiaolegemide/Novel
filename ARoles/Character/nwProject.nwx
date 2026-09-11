@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-10 14:27:52">
-  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="114" autoCount="1257" editTime="1260485">
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-11 11:21:05">
+  <project id="5a9f848a-4f51-4081-bed7-a149217dac4a" saveCount="115" autoCount="1259" editTime="1264940">
     <name>YIshijie</name>
     <author />
   </project>
@@ -9,7 +9,7 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <lastHandle>
-      <entry key="editor">e46c5f96346ce</entry>
+      <entry key="editor">a93a2fe54b336</entry>
       <entry key="viewer">e46c5f96346ce</entry>
       <entry key="novel">e6821628afafd</entry>
       <entry key="outline">None</entry>
@@ -28,7 +28,7 @@
       <entry key="i1969a5" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="95" novelWords="68" notesWords="882" novelChars="830" notesChars="9355">
+  <content items="95" novelWords="68" notesWords="806" novelChars="830" notesChars="8250">
     <item handle="e6821628afafd" parent="None" root="e6821628afafd" order="0" type="ROOT" class="NOVEL">
       <meta expanded="no" />
       <name status="s0caabc" import="id255c4">Novel</name>
@@ -38,7 +38,7 @@
       <name status="s0caabc" import="id255c4">Plot</name>
     </item>
     <item handle="a93a2fe54b336" parent="c8e5ef1dfe437" root="c8e5ef1dfe437" order="0" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="1121" wordCount="81" paraCount="15" cursorPos="209" />
+      <meta expanded="no" heading="H1" charCount="16" wordCount="5" paraCount="0" cursorPos="16" />
       <name status="s0caabc" import="id255c4" active="yes">故事线索</name>
     </item>
     <item handle="3cd2bc0f3f220" parent="c8e5ef1dfe437" root="c8e5ef1dfe437" order="1" type="FILE" class="PLOT" layout="NOTE">
