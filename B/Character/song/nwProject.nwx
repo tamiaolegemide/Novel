@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-09-14 16:46:32">
+  <project id="002de9f7-4f73-4e3d-b334-38a561bd5be3" saveCount="1" autoCount="0" editTime="0">
+    <name>song</name>
+    <author />
+  </project>
+  <settings>
+    <doBackup>yes</doBackup>
+    <language>en_US</language>
+    <spellChecking auto="no">None</spellChecking>
+    <lastHandle>
+      <entry key="editor">None</entry>
+      <entry key="viewer">None</entry>
+      <entry key="novel">None</entry>
+      <entry key="outline">None</entry>
+    </lastHandle>
+    <autoReplace />
+    <status>
+      <entry key="s1ef155" count="3" color="faded" shape="STAR">New</entry>
+      <entry key="sf2b7f8" count="0" color="red" shape="TRIANGLE">Note</entry>
+      <entry key="s9d9b68" count="0" color="yellow" shape="CIRCLE_T">Draft</entry>
+      <entry key="sff6991" count="0" color="green" shape="STAR">Finished</entry>
+    </status>
+    <importance>
+      <entry key="i20c8a1" count="3" color="purple" shape="SQUARE">New</entry>
+      <entry key="ib2ff5f" count="0" color="purple" shape="BLOCK_2">Minor</entry>
+      <entry key="i3dbd3a" count="0" color="purple" shape="BLOCK_3">Major</entry>
+      <entry key="i368335" count="0" color="purple" shape="BLOCK_4">Main</entry>
+    </importance>
+  </settings>
+  <content items="6" novelWords="0" notesWords="0" novelChars="0" notesChars="0">
+    <item handle="6ed46fd75f325" parent="None" root="6ed46fd75f325" order="0" type="ROOT" class="NOVEL">
+      <meta expanded="no" />
+      <name status="s1ef155" import="i20c8a1">Novel</name>
+    </item>
+    <item handle="ede274791bbc9" parent="6ed46fd75f325" root="6ed46fd75f325" order="0" type="FILE" class="NOVEL" layout="DOCUMENT">
+      <meta expanded="no" heading="H0" charCount="0" wordCount="0" paraCount="0" cursorPos="0" />
+      <name status="s1ef155" import="i20c8a1" active="yes">Title Page</name>
+    </item>
+    <item handle="d25fa03f4a013" parent="None" root="d25fa03f4a013" order="1" type="ROOT" class="PLOT">
+      <meta expanded="no" />
+      <name status="s1ef155" import="i20c8a1">Plot</name>
+    </item>
+    <item handle="4c043743f445e" parent="None" root="4c043743f445e" order="2" type="ROOT" class="CHARACTER">
+      <meta expanded="no" />
+      <name status="s1ef155" import="i20c8a1">Characters</name>
+    </item>
+    <item handle="aa9932d8f9f1d" parent="None" root="aa9932d8f9f1d" order="3" type="ROOT" class="ARCHIVE">
+      <meta expanded="no" />
+      <name status="s1ef155" import="i20c8a1">Archive</name>
+    </item>
+    <item handle="94c4af059976b" parent="None" root="94c4af059976b" order="4" type="ROOT" class="TRASH">
+      <meta expanded="no" />
+      <name status="s1ef155" import="i20c8a1">Trash</name>
+    </item>
+  </content>
+</novelWriterXML>
