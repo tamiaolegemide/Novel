@@ -1,8 +1,36 @@
 {
   "novelWriter.meta": {
-    "version": "0x260102f0",
-    "timestamp": "2026-09-14 16:46:32"
+    "version": "0x260200f0",
+    "timestamp": "2026-09-20 16:10:25",
+    "revision": 62
   },
-  "novelWriter.tagsIndex": {},
-  "novelWriter.itemIndex": {}
+  "novelWriter.tagsIndex": {
+    "\u6797\u9053\u7384": {"name": "\u6797\u9053\u7384", "display": "\u6797\u9053\u7384", "handle": "b97bff87d72b1", "heading": "T0001", "class": "CHARACTER"},
+    "\u5b59\u6708\u5982": {"name": "\u5b59\u6708\u5982", "display": "\u5b59\u6708\u5982", "handle": "b97bff87d72b1", "heading": "T0001", "class": "CHARACTER"},
+    "\u5b59\u83ab": {"name": "\u5b59\u83ab", "display": "\u5b59\u83ab", "handle": "70c858f68c780", "heading": "T0001", "class": "CHARACTER"},
+    "\u8def\u88d5": {"name": "\u8def\u88d5", "display": "\u8def\u88d5", "handle": "70c858f68c780", "heading": "T0001", "class": "CHARACTER"},
+    "\u674e\u6587": {"name": "\u674e\u6587", "display": "\u674e\u6587", "handle": "70c858f68c780", "heading": "T0001", "class": "CHARACTER"}
+  },
+  "novelWriter.itemIndex": {
+    "ede274791bbc9": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "song", "line": 7, "tag": "", "counts": [34, 6, 2]}
+      }
+    },
+    "576764a5c248a": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "\u4e3b\u65e8", "line": 1, "tag": "", "counts": [2, 1, 0]}
+      }
+    },
+    "b97bff87d72b1": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "\u4e3b\u89d2", "line": 1, "tag": "\u5b59\u6708\u5982", "counts": [19, 2, 1]}
+      }
+    },
+    "70c858f68c780": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "\u7687\u57ce\u53f8", "line": 1, "tag": "\u674e\u6587", "counts": [21, 5, 3]}
+      }
+    }
+  }
 }
