@@ -15,6 +15,22 @@
     "GuiNovelView": {
       "lastCol": "HIDDEN",
       "lastColSize": 25
+    },
+    "GuiProjectSearch": {
+      "searchFilters": {
+        "text:includeHeadings": true,
+        "text:includeMeta": true,
+        "text:includeComments": true,
+        "text:includeBody": true,
+        "docs:includeNovel": true,
+        "docs:includeNotes": true,
+        "docs:includeInactive": true,
+        "root:7e75bbf1ff796": true,
+        "root:c2584731986b6": true,
+        "root:774721ad661a6": true,
+        "root:988151c22b071": false,
+        "root:3a5ef1b16eb36": true
+      }
     }
   }
 }

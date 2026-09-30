@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.1.2" hexVersion="0x260102f0" fileVersion="1.5" fileRevision="6" timeStamp="2026-08-26 09:12:16">
-  <project id="5ee7b057-2392-4e28-b560-98d4f1b6da82" saveCount="9" autoCount="40" editTime="21009">
+<novelWriterXML appVersion="26.2" hexVersion="0x260200f0" fileVersion="1.6" fileRevision="0" timeStamp="2026-09-30 16:50:13">
+  <project id="5ee7b057-2392-4e28-b560-98d4f1b6da82" saveCount="11" autoCount="166" editTime="28580" indexRevision="321">
     <name>QuBing</name>
     <author />
   </project>
@@ -8,9 +8,12 @@
     <doBackup>yes</doBackup>
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
+    <projectTarget date="None" last="14" mode="words">0</projectTarget>
+    <dailyTarget auto="no" last="0" date="2026-09-30">0</dailyTarget>
+    <targetSkipRoots />
     <lastHandle>
-      <entry key="editor">b609735e73213</entry>
-      <entry key="viewer">40f9bbda9abd8</entry>
+      <entry key="editor">8d23db96cc7c8</entry>
+      <entry key="viewer">8d23db96cc7c8</entry>
       <entry key="novel">7e75bbf1ff796</entry>
       <entry key="outline">None</entry>
     </lastHandle>
@@ -28,7 +31,7 @@
       <entry key="i793699" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="13" novelWords="14" notesWords="45" novelChars="75" notesChars="501">
+  <content items="13" novelWords="14" notesWords="97" novelChars="75" notesChars="1314">
     <item handle="7e75bbf1ff796" parent="None" root="7e75bbf1ff796" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s6bc124" import="iedde22">Novel</name>
@@ -42,7 +45,7 @@
       <name status="s6bc124" import="iedde22">Plot</name>
     </item>
     <item handle="8d23db96cc7c8" parent="c2584731986b6" root="c2584731986b6" order="0" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="353" wordCount="15" paraCount="2" cursorPos="327" />
+      <meta expanded="no" heading="H1" charCount="929" wordCount="41" paraCount="6" cursorPos="931" />
       <name status="s6bc124" import="iedde22" active="yes">故事</name>
     </item>
     <item handle="0244d09f1a646" parent="c2584731986b6" root="c2584731986b6" order="1" type="FILE" class="PLOT" layout="NOTE">
@@ -54,16 +57,12 @@
       <name status="s6bc124" import="iedde22">Characters</name>
     </item>
     <item handle="b609735e73213" parent="774721ad661a6" root="774721ad661a6" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="37" wordCount="8" paraCount="2" cursorPos="29" />
+      <meta expanded="no" heading="H1" charCount="63" wordCount="9" paraCount="2" cursorPos="17" />
       <name status="s6bc124" import="iedde22" active="yes">主角</name>
     </item>
     <item handle="2e7bd2789ee39" parent="774721ad661a6" root="774721ad661a6" order="1" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="88" wordCount="18" paraCount="7" cursorPos="157" />
-      <name status="s6bc124" import="iedde22" active="yes">公司</name>
-    </item>
-    <item handle="875202767daa8" parent="774721ad661a6" root="774721ad661a6" order="2" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="0" wordCount="0" paraCount="0" cursorPos="0" />
-      <name status="s6bc124" import="iedde22" active="yes">卢派</name>
+      <meta expanded="no" heading="H1" charCount="299" wordCount="43" paraCount="14" cursorPos="500" />
+      <name status="s6bc124" import="iedde22" active="yes">人物</name>
     </item>
     <item handle="988151c22b071" parent="None" root="988151c22b071" order="3" type="ROOT" class="ARCHIVE">
       <meta expanded="no" />
@@ -74,12 +73,16 @@
       <name status="s6bc124" import="iedde22">Objects</name>
     </item>
     <item handle="7b413efc14458" parent="3a5ef1b16eb36" root="3a5ef1b16eb36" order="0" type="FILE" class="OBJECT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="21" wordCount="3" paraCount="1" cursorPos="19" />
+      <meta expanded="no" heading="H1" charCount="21" wordCount="3" paraCount="1" cursorPos="27" />
       <name status="s6bc124" import="iedde22" active="yes">器官</name>
     </item>
     <item handle="ac86347b72c3b" parent="None" root="ac86347b72c3b" order="5" type="ROOT" class="TRASH">
       <meta expanded="no" />
       <name status="s6bc124" import="iedde22">Trash</name>
+    </item>
+    <item handle="875202767daa8" parent="ac86347b72c3b" root="ac86347b72c3b" order="0" type="FILE" class="TRASH" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="0" wordCount="0" paraCount="0" cursorPos="0" />
+      <name status="s6bc124" import="iedde22" active="yes">卢派</name>
     </item>
   </content>
 </novelWriterXML>

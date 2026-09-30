@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.2" hexVersion="0x260200f0" fileVersion="1.6" fileRevision="0" timeStamp="2026-09-20 16:10:25">
-  <project id="002de9f7-4f73-4e3d-b334-38a561bd5be3" saveCount="3" autoCount="22" editTime="1927" indexRevision="62">
+<novelWriterXML appVersion="26.2" hexVersion="0x260200f0" fileVersion="1.6" fileRevision="0" timeStamp="2026-09-30 16:58:32">
+  <project id="002de9f7-4f73-4e3d-b334-38a561bd5be3" saveCount="4" autoCount="30" editTime="2426" indexRevision="89">
     <name>song</name>
     <author />
   </project>
@@ -9,11 +9,11 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <projectTarget date="None" last="14" mode="words">0</projectTarget>
-    <dailyTarget auto="no" last="0" date="2026-09-20">0</dailyTarget>
+    <dailyTarget auto="no" last="0" date="2026-09-30">0</dailyTarget>
     <targetSkipRoots />
     <lastHandle>
-      <entry key="editor">b97bff87d72b1</entry>
-      <entry key="viewer">None</entry>
+      <entry key="editor">576764a5c248a</entry>
+      <entry key="viewer">576764a5c248a</entry>
       <entry key="novel">6ed46fd75f325</entry>
       <entry key="outline">None</entry>
     </lastHandle>
@@ -31,7 +31,7 @@
       <entry key="i368335" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="9" novelWords="14" notesWords="8" novelChars="73" notesChars="42">
+  <content items="9" novelWords="14" notesWords="22" novelChars="73" notesChars="249">
     <item handle="6ed46fd75f325" parent="None" root="6ed46fd75f325" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s1ef155" import="i20c8a1">Novel</name>
@@ -45,8 +45,8 @@
       <name status="s1ef155" import="i20c8a1">Plot</name>
     </item>
     <item handle="576764a5c248a" parent="d25fa03f4a013" root="d25fa03f4a013" order="0" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="2" wordCount="1" paraCount="0" cursorPos="6" />
-      <name status="s1ef155" import="i20c8a1" active="yes">主旨</name>
+      <meta expanded="no" heading="H1" charCount="209" wordCount="15" paraCount="2" cursorPos="169" />
+      <name status="s1ef155" import="i20c8a1" active="yes">剧情</name>
     </item>
     <item handle="4c043743f445e" parent="None" root="4c043743f445e" order="2" type="ROOT" class="CHARACTER">
       <meta expanded="yes" />
@@ -57,7 +57,7 @@
       <name status="s1ef155" import="i20c8a1" active="yes">主角</name>
     </item>
     <item handle="70c858f68c780" parent="4c043743f445e" root="4c043743f445e" order="1" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="21" wordCount="5" paraCount="3" cursorPos="54" />
+      <meta expanded="no" heading="H1" charCount="21" wordCount="5" paraCount="3" cursorPos="34" />
       <name status="s1ef155" import="i20c8a1" active="yes">皇城司</name>
     </item>
     <item handle="aa9932d8f9f1d" parent="None" root="aa9932d8f9f1d" order="3" type="ROOT" class="ARCHIVE">

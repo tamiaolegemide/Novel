@@ -5,6 +5,6 @@ Table of Contents
 File Name                 Class      Layout    Document Label
 -------------------------------------------------------------
 content/ede274791bbc9.md  NOVEL      DOCUMENT  Title Page
-content/576764a5c248a.md  PLOT       NOTE      主旨
+content/576764a5c248a.md  PLOT       NOTE      剧情
 content/b97bff87d72b1.md  CHARACTER  NOTE      主角
 content/70c858f68c780.md  CHARACTER  NOTE      皇城司
