@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.2" hexVersion="0x260200f0" fileVersion="1.6" fileRevision="0" timeStamp="2026-09-30 16:50:13">
-  <project id="5ee7b057-2392-4e28-b560-98d4f1b6da82" saveCount="11" autoCount="166" editTime="28580" indexRevision="321">
+<novelWriterXML appVersion="26.2.1" hexVersion="0x260201f0" fileVersion="1.6" fileRevision="0" timeStamp="2026-10-08 14:56:07">
+  <project id="5ee7b057-2392-4e28-b560-98d4f1b6da82" saveCount="12" autoCount="167" editTime="28630" indexRevision="324">
     <name>QuBing</name>
     <author />
   </project>
@@ -9,7 +9,7 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <projectTarget date="None" last="14" mode="words">0</projectTarget>
-    <dailyTarget auto="no" last="0" date="2026-09-30">0</dailyTarget>
+    <dailyTarget auto="no" last="0" date="2026-10-08">0</dailyTarget>
     <targetSkipRoots />
     <lastHandle>
       <entry key="editor">8d23db96cc7c8</entry>
@@ -45,7 +45,7 @@
       <name status="s6bc124" import="iedde22">Plot</name>
     </item>
     <item handle="8d23db96cc7c8" parent="c2584731986b6" root="c2584731986b6" order="0" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="929" wordCount="41" paraCount="6" cursorPos="931" />
+      <meta expanded="no" heading="H1" charCount="929" wordCount="41" paraCount="6" cursorPos="256" />
       <name status="s6bc124" import="iedde22" active="yes">故事</name>
     </item>
     <item handle="0244d09f1a646" parent="c2584731986b6" root="c2584731986b6" order="1" type="FILE" class="PLOT" layout="NOTE">
