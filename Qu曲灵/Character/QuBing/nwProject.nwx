@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.2.1" hexVersion="0x260201f0" fileVersion="1.6" fileRevision="0" timeStamp="2026-10-08 14:56:07">
-  <project id="5ee7b057-2392-4e28-b560-98d4f1b6da82" saveCount="12" autoCount="167" editTime="28630" indexRevision="324">
-    <name>QuBing</name>
+<novelWriterXML appVersion="26.2.1" hexVersion="0x260201f0" fileVersion="1.6" fileRevision="0" timeStamp="2026-10-08 16:55:30">
+  <project id="5ee7b057-2392-4e28-b560-98d4f1b6da82" saveCount="13" autoCount="167" editTime="28665" indexRevision="326">
+    <name>曲灵传</name>
     <author />
   </project>
   <settings>
@@ -31,7 +31,7 @@
       <entry key="i793699" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="13" novelWords="14" notesWords="97" novelChars="75" notesChars="1314">
+  <content items="13" novelWords="14" notesWords="98" novelChars="75" notesChars="1334">
     <item handle="7e75bbf1ff796" parent="None" root="7e75bbf1ff796" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s6bc124" import="iedde22">Novel</name>
@@ -45,7 +45,7 @@
       <name status="s6bc124" import="iedde22">Plot</name>
     </item>
     <item handle="8d23db96cc7c8" parent="c2584731986b6" root="c2584731986b6" order="0" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="929" wordCount="41" paraCount="6" cursorPos="256" />
+      <meta expanded="no" heading="H1" charCount="949" wordCount="42" paraCount="7" cursorPos="150" />
       <name status="s6bc124" import="iedde22" active="yes">故事</name>
     </item>
     <item handle="0244d09f1a646" parent="c2584731986b6" root="c2584731986b6" order="1" type="FILE" class="PLOT" layout="NOTE">

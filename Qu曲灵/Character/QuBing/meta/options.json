@@ -31,6 +31,13 @@
         "root:988151c22b071": false,
         "root:3a5ef1b16eb36": true
       }
+    },
+    "GuiProjectSettings": {
+      "winWidth": 650,
+      "winHeight": 500,
+      "statusColW": 130,
+      "importColW": 130,
+      "replaceColW": 130
     }
   }
 }
