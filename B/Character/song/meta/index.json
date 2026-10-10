@@ -1,8 +1,8 @@
 {
   "novelWriter.meta": {
     "version": "0x260201f0",
-    "timestamp": "2026-10-08 14:57:28",
-    "revision": 179
+    "timestamp": "2026-10-09 13:18:54",
+    "revision": 610
   },
   "novelWriter.tagsIndex": {
     "\u6797\u9053\u7384": {"name": "\u6797\u9053\u7384", "display": "\u6797\u9053\u7384", "handle": "b97bff87d72b1", "heading": "T0001", "class": "CHARACTER"},
@@ -11,7 +11,9 @@
     "\u8def\u88d5": {"name": "\u8def\u88d5", "display": "\u8def\u88d5", "handle": "70c858f68c780", "heading": "T0001", "class": "CHARACTER"},
     "\u674e\u6587": {"name": "\u674e\u6587", "display": "\u674e\u6587", "handle": "70c858f68c780", "heading": "T0001", "class": "CHARACTER"},
     "\u5468\u4e8c\u53d4": {"name": "\u5468\u4e8c\u53d4", "display": "\u5468\u4e8c\u53d4", "handle": "70c858f68c780", "heading": "T0001", "class": "CHARACTER"},
-    "\u5434\u8001\u4e8c": {"name": "\u5434\u8001\u4e8c", "display": "\u5434\u8001\u4e8c", "handle": "70c858f68c780", "heading": "T0001", "class": "CHARACTER"}
+    "\u5434\u8001\u4e8c": {"name": "\u5434\u8001\u4e8c", "display": "\u5434\u8001\u4e8c", "handle": "70c858f68c780", "heading": "T0001", "class": "CHARACTER"},
+    "\u8463\u658c": {"name": "\u8463\u658c", "display": "\u8463\u658c", "handle": "70c858f68c780", "heading": "T0001", "class": "CHARACTER"},
+    "\u7ae0\u5112\u6708": {"name": "\u7ae0\u5112\u6708", "display": "\u7ae0\u5112\u6708", "handle": "9527ab37a7e7d", "heading": "T0003", "class": "CHARACTER"}
   },
   "novelWriter.itemIndex": {
     "ede274791bbc9": {
@@ -21,13 +23,67 @@
     },
     "576764a5c248a": {
       "T0001": {
-        "meta": {"level": "H1", "title": "\u5267\u60c5", "line": 1, "tag": "", "counts": [2, 1, 0]}
+        "meta": {"level": "H1", "title": "\u5267\u60c5", "line": 1, "tag": "", "counts": [84, 6, 1]}
       },
       "T0002": {
-        "meta": {"level": "H2", "title": "\u7ae0\u60c7\u7bc7", "line": 3, "tag": "", "counts": [131, 10, 1]}
+        "meta": {"level": "H2", "title": "\u7ae0\u60c7\u7bc7", "line": 8, "tag": "", "counts": [3, 1, 0]}
       },
       "T0003": {
-        "meta": {"level": "H2", "title": "\u5cb3\u98de\u7bc7", "line": 14, "tag": "", "counts": [76, 4, 1]}
+        "meta": {"level": "H3", "title": "\u9648\u5b50\u6052\u88ab\u6253\u540e\uff0c\u4e0d\u670d\u4e0a\u544a\uff0c\u8c03\u5230\u5176\u4ed6\u8425", "line": 9, "tag": "", "counts": [17, 1, 0]}
+      },
+      "T0004": {
+        "meta": {"level": "H3", "title": "\u5b8b\u5fbd\u5b97\u7a81\u7136\u95ee\u8d77\u7ae0\u60c7\uff0c", "line": 10, "tag": "", "counts": [42, 3, 1]}
+      },
+      "T0005": {
+        "meta": {"level": "H3", "title": "\u4e34\u8d70\u65f6\u6709\u4e00\u540d\u5b98\u5458\u770b\u7740\u4e3b\u89d2\uff0c\u8bb0\u5728\u4e86\u5fc3\u91cc\u3002", "line": 14, "tag": "", "counts": [38, 2, 1]}
+      },
+      "T0006": {
+        "meta": {"level": "H3", "title": "\u4e3b\u89d2\u5728\u8fdb\u57ce\u65f6\u89c1\u5230\u4e00\u5999\u9f84\u59d1\u5a18\uff0c\u559c\u6b22\u4e0a\u5979", "line": 17, "tag": "", "counts": [38, 2, 1]}
+      },
+      "T0007": {
+        "meta": {"level": "H3", "title": "\u7ae0\u5112\u6708\u8bb0\u5f97\u4e3b\u89d2\uff0c\u56e0\u4e3a\u4ed6\u5f88\u65e0\u529b\u5730\u770b\u5979\uff0c\u5e76\u544a\u8bc9\u4e86\u56db\u54e5\u7ae0\u63f4\u3002", "line": 19, "tag": "", "counts": [69, 3, 1]}
+      },
+      "T0008": {
+        "meta": {"level": "H3", "title": "\u961f\u957f\u6025\u4e8e\u6740\u4e86\u7ae0\uff0c\u7acb\u529f\u3002", "line": 23, "tag": "", "counts": [41, 3, 1]}
+      },
+      "T0009": {
+        "meta": {"level": "H3", "title": "\u4e0d\u4e45\u961f\u957f\u884c\u523a\uff0c\u9053\u7384\u51fa\u624b\u6551\u4eba\u3002", "line": 27, "tag": "", "counts": [14, 1, 0]}
+      },
+      "T0010": {
+        "meta": {"level": "H3", "title": "\u7ae0\u95ee\u4e86\u4e3b\u89d2\u4e00\u4e9b\u4e8b\uff0c\u4e3b\u89d2\u8d77\u521d\u8fd8\u5728\u9690\u7792\uff0c\u76f4\u5230\u8bf4\u51fa\u4ed6\u7236\u4eb2\u6b7b\u56e0\u3002", "line": 29, "tag": "", "counts": [67, 3, 1]}
+      },
+      "T0011": {
+        "meta": {"level": "H3", "title": "\u7ae0\u60c7\u8ddf\u4e3b\u89d2\u8bf4\u4e86\u5f88\u591a\u4e8b", "line": 33, "tag": "", "counts": [55, 3, 1]}
+      },
+      "T0012": {
+        "meta": {"level": "H2", "title": "\u7ed3\u4ea4\u7ae5\u8d2f", "line": 37, "tag": "", "counts": [4, 1, 0]}
+      },
+      "T0013": {
+        "meta": {"level": "H3", "title": "\u627e\u5f53\u5e74\u6848\u5377\uff0c\u786e\u8ba4\u5b9e\u60c5\u3002", "line": 38, "tag": "", "counts": [11, 1, 0]}
+      },
+      "T0014": {
+        "meta": {"level": "H3", "title": "\u62ff\u94b1\u7ed9\u8def\u88d5\u6253\u70b9\u5347\u4e86\u90fd\u5934\u3002", "line": 39, "tag": "", "counts": [12, 1, 0]}
+      },
+      "T0015": {
+        "meta": {"level": "H3", "title": "\u62ff\u4e0a\u7ae0\u60c7\u9001\u7684\u5b57\u753b\uff0c\u7ed9\u7ae5\u8d2f\u3002\u5f97\u4e86\u4e2a\u8425\u6307\u6325\u4f7f\u3002", "line": 40, "tag": "", "counts": [37, 2, 1]}
+      },
+      "T0016": {
+        "meta": {"level": "H3", "title": "\u9648\u5b50\u6052\u540e\u6765\u8f9e\u4e86\u5dee\u4e8b\uff0c\u53bb\u8003\u529f\u540d", "line": 43, "tag": "", "counts": [14, 1, 0]}
+      },
+      "T0017": {
+        "meta": {"level": "H2", "title": "\u79e6\u6867", "line": 46, "tag": "", "counts": [2, 1, 0]}
+      },
+      "T0018": {
+        "meta": {"level": "H2", "title": "\u8fbd\u56fd\u544a\u6025", "line": 48, "tag": "", "counts": [4, 1, 0]}
+      },
+      "T0019": {
+        "meta": {"level": "H2", "title": "\u91d1\u519b\u5357\u4e0b", "line": 50, "tag": "", "counts": [4, 1, 0]}
+      },
+      "T0020": {
+        "meta": {"level": "H2", "title": "\u97e9\u4e16\u5fe0\u7bc7", "line": 51, "tag": "", "counts": [4, 1, 0]}
+      },
+      "T0021": {
+        "meta": {"level": "H2", "title": "\u5cb3\u98de\u7bc7", "line": 52, "tag": "", "counts": [76, 4, 1]}
       }
     },
     "b97bff87d72b1": {
@@ -37,7 +93,18 @@
     },
     "70c858f68c780": {
       "T0001": {
-        "meta": {"level": "H1", "title": "\u7687\u57ce\u53f8", "line": 1, "tag": "\u5434\u8001\u4e8c", "counts": [26, 7, 5]}
+        "meta": {"level": "H1", "title": "\u7687\u57ce\u53f8", "line": 1, "tag": "\u5434\u8001\u4e8c", "counts": [37, 8, 6]}
+      }
+    },
+    "9527ab37a7e7d": {
+      "T0001": {
+        "meta": {"level": "H1", "title": "\u7ae0\u60c7", "line": 1, "tag": "", "counts": [2, 1, 0]}
+      },
+      "T0002": {
+        "meta": {"level": "H3", "title": "\u59bb\u5b50", "line": 3, "tag": "", "counts": [16, 3, 1]}
+      },
+      "T0003": {
+        "meta": {"level": "H3", "title": "\u513f\u5b50", "line": 7, "tag": "\u7ae0\u5112\u6708", "counts": [95, 7, 5]}
       }
     }
   }
