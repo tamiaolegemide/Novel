@@ -1,0 +1,38 @@
+{
+  "novelWriter.guiOptions": {
+    "GuiDocViewerPanel": {
+      "colWidths": {
+        "CHARACTER": [100, 100, 100, 100],
+        "PLOT": [100, 100, 100, 100],
+        "WORLD": [100, 100, 100, 100],
+        "TIMELINE": [100, 100, 100, 100],
+        "OBJECT": [100, 100, 100, 100],
+        "ENTITY": [100, 100, 100, 100],
+        "CUSTOM": [100, 100, 100, 100]
+      },
+      "hideInactive": false
+    },
+    "GuiNovelView": {
+      "lastCol": "HIDDEN",
+      "lastColSize": 25
+    },
+    "GuiProjectSearch": {
+      "searchFilters": {
+        "text:includeHeadings": true,
+        "text:includeMeta": true,
+        "text:includeComments": true,
+        "text:includeBody": true,
+        "docs:includeNovel": true,
+        "docs:includeNotes": true,
+        "docs:includeInactive": true,
+        "root:7103864c4d855": true,
+        "root:5d12bf9dce209": true,
+        "root:eba33d8ba7129": true,
+        "root:271ee740cb261": true,
+        "root:f16ee1c62b7af": true,
+        "root:99a73657a3a93": true,
+        "root:4e99a1d60e4c9": false
+      }
+    }
+  }
+}

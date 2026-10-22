@@ -1,8 +1,8 @@
 {
   "novelWriter.meta": {
-    "version": "0x260201f0",
-    "timestamp": "2026-10-09 13:18:54",
-    "revision": 610
+    "version": "0x260202f0",
+    "timestamp": "2026-10-15 15:16:15",
+    "revision": 613
   },
   "novelWriter.tagsIndex": {
     "\u6797\u9053\u7384": {"name": "\u6797\u9053\u7384", "display": "\u6797\u9053\u7384", "handle": "b97bff87d72b1", "heading": "T0001", "class": "CHARACTER"},
