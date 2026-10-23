@@ -6,7 +6,10 @@ File Name                 Class      Layout    Document Label
 -------------------------------------------------------------
 content/0bc5e134499dc.md  NOVEL      DOCUMENT  Title Page
 content/b392928799fb0.md  PLOT       NOTE      剧情
+content/fb58b06acd2ae.md  PLOT       NOTE      龙凤洞
 content/a9fa08fe435bd.md  OBJECT     NOTE      武功
+content/907aa7f785171.md  OBJECT     NOTE      军衔
 content/95222715aada3.md  WORLD      NOTE      胶洲城
 content/85019630eb08d.md  CHARACTER  NOTE      主角家
 content/16a5510760fc4.md  CHARACTER  NOTE      人物
+content/2dbd963016834.md  CHARACTER  NOTE      军队

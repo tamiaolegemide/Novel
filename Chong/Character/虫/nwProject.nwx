@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.2.2" hexVersion="0x260202f0" fileVersion="1.6" fileRevision="0" timeStamp="2026-10-22 15:59:31">
-  <project id="b27c3304-e07f-4f14-9a28-1759561ff55d" saveCount="7" autoCount="1238" editTime="74495" indexRevision="1724">
+<novelWriterXML appVersion="26.2.2" hexVersion="0x260202f0" fileVersion="1.6" fileRevision="0" timeStamp="2026-10-23 15:11:08">
+  <project id="b27c3304-e07f-4f14-9a28-1759561ff55d" saveCount="8" autoCount="1401" editTime="84310" indexRevision="1383">
     <name>虫</name>
     <author />
   </project>
@@ -9,10 +9,10 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <projectTarget date="None" last="9" mode="words">0</projectTarget>
-    <dailyTarget auto="no" last="0" date="2026-10-22">0</dailyTarget>
+    <dailyTarget auto="no" last="0" date="2026-10-23">0</dailyTarget>
     <targetSkipRoots />
     <lastHandle>
-      <entry key="editor">b392928799fb0</entry>
+      <entry key="editor">85019630eb08d</entry>
       <entry key="viewer">16a5510760fc4</entry>
       <entry key="novel">7103864c4d855</entry>
       <entry key="outline">None</entry>
@@ -25,13 +25,13 @@
       <entry key="s70151c" count="0" color="green" shape="STAR">Finished</entry>
     </status>
     <importance>
-      <entry key="i3a5bbc" count="12" color="purple" shape="SQUARE">New</entry>
+      <entry key="i3a5bbc" count="14" color="purple" shape="SQUARE">New</entry>
       <entry key="i3f4453" count="0" color="purple" shape="BLOCK_2">Minor</entry>
       <entry key="ie5442f" count="0" color="purple" shape="BLOCK_3">Major</entry>
       <entry key="i78e84a" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="15" novelWords="9" notesWords="54" novelChars="40" notesChars="671">
+  <content items="17" novelWords="9" notesWords="156" novelChars="40" notesChars="2202">
     <item handle="7103864c4d855" parent="None" root="7103864c4d855" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s3bfbbf" import="i3a5bbc">Novel</name>
@@ -45,8 +45,12 @@
       <name status="s3bfbbf" import="i3a5bbc">Plot</name>
     </item>
     <item handle="b392928799fb0" parent="5d12bf9dce209" root="5d12bf9dce209" order="0" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="365" wordCount="13" paraCount="7" cursorPos="85" />
+      <meta expanded="no" heading="H1" charCount="403" wordCount="21" paraCount="7" cursorPos="483" />
       <name status="s3bfbbf" import="i3a5bbc" active="yes">剧情</name>
+    </item>
+    <item handle="fb58b06acd2ae" parent="5d12bf9dce209" root="5d12bf9dce209" order="1" type="FILE" class="PLOT" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="268" wordCount="14" paraCount="4" cursorPos="33" />
+      <name status="s3bfbbf" import="i3a5bbc" active="yes">龙凤洞</name>
     </item>
     <item handle="eba33d8ba7129" parent="None" root="eba33d8ba7129" order="2" type="ROOT" class="ENTITY">
       <meta expanded="no" />
@@ -59,6 +63,10 @@
     <item handle="a9fa08fe435bd" parent="271ee740cb261" root="271ee740cb261" order="0" type="FILE" class="OBJECT" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="119" wordCount="17" paraCount="4" cursorPos="66" />
       <name status="s3bfbbf" import="i3a5bbc" active="yes">武功</name>
+    </item>
+    <item handle="907aa7f785171" parent="271ee740cb261" root="271ee740cb261" order="1" type="FILE" class="OBJECT" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="1224" wordCount="80" paraCount="49" cursorPos="830" />
+      <name status="s3bfbbf" import="i3a5bbc" active="yes">军衔</name>
     </item>
     <item handle="f16ee1c62b7af" parent="None" root="f16ee1c62b7af" order="4" type="ROOT" class="WORLD">
       <meta expanded="no" />
@@ -73,7 +81,7 @@
       <name status="s3bfbbf" import="i3a5bbc">Characters</name>
     </item>
     <item handle="85019630eb08d" parent="99a73657a3a93" root="99a73657a3a93" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="139" wordCount="13" paraCount="6" cursorPos="161" />
+      <meta expanded="no" heading="H1" charCount="140" wordCount="13" paraCount="6" cursorPos="153" />
       <name status="s3bfbbf" import="i3a5bbc" active="yes">主角家</name>
     </item>
     <item handle="16a5510760fc4" parent="99a73657a3a93" root="99a73657a3a93" order="1" type="FILE" class="CHARACTER" layout="NOTE">
