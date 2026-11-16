@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="26.2.2" hexVersion="0x260202f0" fileVersion="1.6" fileRevision="0" timeStamp="2026-10-28 13:20:30">
-  <project id="b27c3304-e07f-4f14-9a28-1759561ff55d" saveCount="9" autoCount="1517" editTime="91323" indexRevision="1621">
+<novelWriterXML appVersion="26.2.2" hexVersion="0x260202f0" fileVersion="1.6" fileRevision="0" timeStamp="2026-11-11 10:00:42">
+  <project id="b27c3304-e07f-4f14-9a28-1759561ff55d" saveCount="11" autoCount="1854" editTime="112286" indexRevision="1542">
     <name>虫</name>
     <author />
   </project>
@@ -9,11 +9,11 @@
     <language>en_US</language>
     <spellChecking auto="no">None</spellChecking>
     <projectTarget date="None" last="9" mode="words">0</projectTarget>
-    <dailyTarget auto="no" last="0" date="2026-10-28">0</dailyTarget>
+    <dailyTarget auto="no" last="0" date="2026-11-11">0</dailyTarget>
     <targetSkipRoots />
     <lastHandle>
-      <entry key="editor">907aa7f785171</entry>
-      <entry key="viewer">16a5510760fc4</entry>
+      <entry key="editor">16a5510760fc4</entry>
+      <entry key="viewer">18b1bb3b7a10b</entry>
       <entry key="novel">7103864c4d855</entry>
       <entry key="outline">None</entry>
     </lastHandle>
@@ -25,13 +25,13 @@
       <entry key="s70151c" count="0" color="green" shape="STAR">Finished</entry>
     </status>
     <importance>
-      <entry key="i3a5bbc" count="14" color="purple" shape="SQUARE">New</entry>
+      <entry key="i3a5bbc" count="19" color="purple" shape="SQUARE">New</entry>
       <entry key="i3f4453" count="0" color="purple" shape="BLOCK_2">Minor</entry>
       <entry key="ie5442f" count="0" color="purple" shape="BLOCK_3">Major</entry>
       <entry key="i78e84a" count="0" color="purple" shape="BLOCK_4">Main</entry>
     </importance>
   </settings>
-  <content items="17" novelWords="9" notesWords="155" novelChars="40" notesChars="2199">
+  <content items="22" novelWords="9" notesWords="280" novelChars="40" notesChars="4706">
     <item handle="7103864c4d855" parent="None" root="7103864c4d855" order="0" type="ROOT" class="NOVEL">
       <meta expanded="yes" />
       <name status="s3bfbbf" import="i3a5bbc">Novel</name>
@@ -45,11 +45,23 @@
       <name status="s3bfbbf" import="i3a5bbc">Plot</name>
     </item>
     <item handle="b392928799fb0" parent="5d12bf9dce209" root="5d12bf9dce209" order="0" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="403" wordCount="21" paraCount="7" cursorPos="483" />
+      <meta expanded="no" heading="H1" charCount="398" wordCount="21" paraCount="7" cursorPos="479" />
       <name status="s3bfbbf" import="i3a5bbc" active="yes">剧情</name>
     </item>
-    <item handle="fb58b06acd2ae" parent="5d12bf9dce209" root="5d12bf9dce209" order="1" type="FILE" class="PLOT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="268" wordCount="14" paraCount="4" cursorPos="33" />
+    <item handle="5d28b1c94c271" parent="5d12bf9dce209" root="5d12bf9dce209" order="1" type="FILE" class="PLOT" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="373" wordCount="25" paraCount="3" cursorPos="155" />
+      <name status="s3bfbbf" import="i3a5bbc" active="yes">天上七人众</name>
+    </item>
+    <item handle="405bec5013d17" parent="5d12bf9dce209" root="5d12bf9dce209" order="2" type="FOLDER" class="PLOT">
+      <meta expanded="yes" />
+      <name status="s3bfbbf" import="i3a5bbc">胡人篇</name>
+    </item>
+    <item handle="18b1bb3b7a10b" parent="405bec5013d17" root="5d12bf9dce209" order="0" type="FILE" class="PLOT" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="1267" wordCount="55" paraCount="13" cursorPos="200" />
+      <name status="s3bfbbf" import="i3a5bbc" active="yes">总览</name>
+    </item>
+    <item handle="fb58b06acd2ae" parent="405bec5013d17" root="5d12bf9dce209" order="1" type="FILE" class="PLOT" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="291" wordCount="13" paraCount="4" cursorPos="326" />
       <name status="s3bfbbf" import="i3a5bbc" active="yes">龙凤洞</name>
     </item>
     <item handle="eba33d8ba7129" parent="None" root="eba33d8ba7129" order="2" type="ROOT" class="ENTITY">
@@ -61,12 +73,16 @@
       <name status="s3bfbbf" import="i3a5bbc">Objects</name>
     </item>
     <item handle="a9fa08fe435bd" parent="271ee740cb261" root="271ee740cb261" order="0" type="FILE" class="OBJECT" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="117" wordCount="16" paraCount="3" cursorPos="74" />
+      <meta expanded="no" heading="H1" charCount="203" wordCount="32" paraCount="6" cursorPos="305" />
       <name status="s3bfbbf" import="i3a5bbc" active="yes">武功</name>
     </item>
     <item handle="907aa7f785171" parent="271ee740cb261" root="271ee740cb261" order="1" type="FILE" class="OBJECT" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="1224" wordCount="80" paraCount="49" cursorPos="829" />
       <name status="s3bfbbf" import="i3a5bbc" active="yes">军衔</name>
+    </item>
+    <item handle="e662021845d44" parent="271ee740cb261" root="271ee740cb261" order="2" type="FILE" class="OBJECT" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="500" wordCount="15" paraCount="11" cursorPos="375" />
+      <name status="s3bfbbf" import="i3a5bbc" active="yes">衣服</name>
     </item>
     <item handle="f16ee1c62b7af" parent="None" root="f16ee1c62b7af" order="4" type="ROOT" class="WORLD">
       <meta expanded="no" />
@@ -81,16 +97,20 @@
       <name status="s3bfbbf" import="i3a5bbc">Characters</name>
     </item>
     <item handle="85019630eb08d" parent="99a73657a3a93" root="99a73657a3a93" order="0" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="139" wordCount="13" paraCount="6" cursorPos="65" />
+      <meta expanded="no" heading="H1" charCount="132" wordCount="12" paraCount="5" cursorPos="199" />
       <name status="s3bfbbf" import="i3a5bbc" active="yes">主角家</name>
     </item>
     <item handle="16a5510760fc4" parent="99a73657a3a93" root="99a73657a3a93" order="1" type="FILE" class="CHARACTER" layout="NOTE">
-      <meta expanded="no" heading="H1" charCount="37" wordCount="7" paraCount="2" cursorPos="72" />
+      <meta expanded="no" heading="H1" charCount="115" wordCount="13" paraCount="4" cursorPos="174" />
       <name status="s3bfbbf" import="i3a5bbc" active="yes">人物</name>
     </item>
     <item handle="2dbd963016834" parent="99a73657a3a93" root="99a73657a3a93" order="2" type="FILE" class="CHARACTER" layout="NOTE">
       <meta expanded="no" heading="H1" charCount="8" wordCount="3" paraCount="0" cursorPos="20" />
       <name status="s3bfbbf" import="i3a5bbc" active="yes">军队</name>
+    </item>
+    <item handle="689e28a6415af" parent="99a73657a3a93" root="99a73657a3a93" order="3" type="FILE" class="CHARACTER" layout="NOTE">
+      <meta expanded="no" heading="H1" charCount="192" wordCount="10" paraCount="2" cursorPos="212" />
+      <name status="s3bfbbf" import="i3a5bbc" active="yes">极乐教</name>
     </item>
     <item handle="4e99a1d60e4c9" parent="None" root="4e99a1d60e4c9" order="6" type="ROOT" class="ARCHIVE">
       <meta expanded="no" />

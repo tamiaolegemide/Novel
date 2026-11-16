@@ -38,6 +38,23 @@
       "statusColW": 130,
       "importColW": 130,
       "replaceColW": 130
+    },
+    "GuiWritingStats": {
+      "winWidth": 550,
+      "winHeight": 500,
+      "widthCol0": 180,
+      "widthCol1": 80,
+      "widthCol2": 80,
+      "widthCol3": 80,
+      "sortCol": 0,
+      "sortOrder": "DescendingOrder",
+      "incNovel": true,
+      "incNotes": true,
+      "hideZeros": true,
+      "hideNegative": false,
+      "groupByDay": false,
+      "showIdleTime": false,
+      "histMax": 2000
     }
   }
 }
